@@ -1,14 +1,148 @@
   /* MAIN */
-h1 {
-  text-align: center;
+
+
+
+  /* HEADER */
+header {
+  max-width: 500px;
+  margin: 0 auto;
+  
+}  
+
+
+	/* NAV */
+nav {
+	margin: 0 0 25px 0;
+	text-align: center;
+	background: #0091ce;
+	z-index: 700;
 }
-.buy-button {
-  background: #0091ce;
-  color: white;
-  padding: 10px;
-  font-weight: bold;
+	nav a:link, nav a:visited {
+		color: white;
+		text-decoration: none;
+	}
+	nav a:hover, nav a:active {
+		color: white;
+		background-color: none;
+		text-decoration: none;
+	}
+	nav ul ul {
+		display: none;
+	}
+	nav ul li:hover > ul {
+		display: block;
+		z-index: 700;
+	}
+	nav ul {
+		background: #0091ce;
+		border-radius: 8px;
+		list-style: none;
+		position: relative;
+		display: inline-table;
+		font-weight: bold;
+		z-index: 700;
+	}
+	nav ul:after {
+		content: ""; clear: both; display: inherit;
+	}
+	nav ul li {
+		float: left;
+	}
+		nav ul li:hover {
+			background: #4b545f;
+			background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
+			background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
+			background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
+		}
+			nav ul li:hover a {
+				color: #fff;
+			}
+	nav ul li a {
+		display: block;
+		padding: 20px 40px;
+		color: white;
+		text-decoration: none;
+	}
+	nav ul ul {
+		background: #5f6975;
+		border-radius: 0px;
+		padding: 0;
+		position: absolute;
+		top: 100%;
+	}
+	nav ul ul li {
+		float: none;
+		border-top: 1px solid #6b727c;
+		border-bottom: 1px solid #575f6a;
+		position: relative;
+	}
+		nav ul ul li a {
+			padding: 15px 40px;
+			color: #fff;
+		}
+			nav ul ul li a:hover {
+				background: #4b545f;
+			}
+	nav ul ul ul {
+		position: absolute;
+		left: 100%;
+		top:0;
+	}
+	
+	
+	/* MAIN CONTENT */
+	
+	
+	
+	/* PRODUCT PAGE */
+h2 {
+	text-align: center;
 }
-  .buy-button:hover {
-    color: #ccc;
-    text-decoration: none;
-  }
+.product-info {
+	padding: 10px;
+	min-height: 550px;
+}	
+	.product-img {
+		
+	}
+	.product-name {
+		
+	}
+	.product-bullets-ul {
+		list-style-type: none;
+		margin: 10px 0;
+		padding: 0;
+	}
+		.product-bullets-li {
+			
+		}
+	.buy-button {
+		padding: 10px;
+		background: #0091ce;
+		color: white;
+	}
+		.buy-button:hover {
+			text-decoration: none;
+			color: black;
+		}
+	
+	
+	/* FOOTER */
+footer {
+	background: #777777;
+	text-align: center;
+	margin: 10px 0 0 0;
+	padding: 10px 0;
+}
+	footer a:link, footer a:visited {
+		color: black;
+		text-decoration: none;
+	}
+	footer a:hover, footer a:active {
+		color: white;
+		text-decoration: none;
+	}
+	footer p {
+		padding: 10px;
+	}
+	
