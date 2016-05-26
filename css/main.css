@@ -1,0 +1,14 @@
+  /* MAIN */
+h1 {
+  text-align: center;
+}
+.buy-button {
+  background: #0091ce;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+  .buy-button:hover {
+    color: #ccc;
+    text-decoration: none;
+  }
