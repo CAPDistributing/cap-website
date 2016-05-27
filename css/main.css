@@ -13,6 +13,7 @@ header {
 	/* NAV */
 nav {
 	margin: 0 0 25px 0;
+	height: 60px;
 	text-align: center;
 	background: #0091ce;
 	z-index: 700;
@@ -35,7 +36,6 @@ nav {
 	}
 	nav ul {
 		background: #0091ce;
-		border-radius: 8px;
 		list-style: none;
 		position: relative;
 		display: inline-table;
@@ -125,6 +125,12 @@ h2 {
 			text-decoration: none;
 			color: black;
 		}
+	
+	
+	/* NEWS */
+.news-img {
+	width: 100%;
+}	
 	
 	
 	/* FOOTER */
