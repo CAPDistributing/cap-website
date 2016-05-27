@@ -5,6 +5,8 @@
   app.controller('StoreController', function(){
     this.audioTechnica = audioTechnica;
     this.riverRidge = riverRidge;
+    this.ebk = ebk;
+    this.stormTanker = stormTanker;
   });
 
   var audioTechnica = [
@@ -236,20 +238,17 @@
       onSale: false
     },
 
-
-
-
   ]; // end audioTechnica
 
   var riverRidge = [
     {
       name: "River Ridge Genuine Lambskin Leather Trifold Wallet (Extra Flap, Black) 02080",
   	  description: "Trifold Wallet",
-  	  itemNum: "PGI-02080",
-  	  ean: "123456",
-      price: "14.99",
+  	  itemNum: "",
+  	  ean: "",
+      price: "",
   	  image: {
-  		    src: "http://capdistributing.com/images/river-ridge/02080B.jpg",
+  		    src: "/images/river-ridge/02080B.jpg",
   		    alt: "Trifold Wallet"
   	  },
       bullets: [
@@ -260,11 +259,143 @@
       soldOut: false,
       onSale: true
     },
-
-
-
+    {
+      name: "River Ridge Genuine Lambskin Leather Bifold Wallet (Side Flap, Black) 02079",
+  	  description: "Bifold Wallet",
+  	  itemNum: "",
+  	  ean: "",
+      price: "",
+  	  image: {
+  		    src: "/images/river-ridge/02079B.jpg",
+  		    alt: "Bifold Wallet"
+  	  },
+      bullets: [
+        'Size: Approx. 4.5" x 3.5"',
+        'Inside Details: 9 Credit Card Inserts, 1 Window ID, 2 Bill Slots'
+      ],
+      amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Bifold-02079/dp/B013PV4OPM",
+      soldOut: false,
+      onSale: true
+    },
+    {
+      name: "River Ridge Genuine Lambskin Leather Bifold Wallet (Standard, Black) 02084",
+  	  description: "Bifold Wallet",
+  	  itemNum: "",
+  	  ean: "",
+      price: "",
+  	  image: {
+  		    src: "/images/river-ridge/02084B.jpg",
+  		    alt: "Bifold Wallet"
+  	  },
+      bullets: [
+        'Size: Approx. 4.5" x 3.5"',
+        'Inside Details: 8 Credit Card Inserts, 2 Bill Slots'
+      ],
+      amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Standard-02084/dp/B013PV4OP2",
+      soldOut: false,
+      onSale: true
+    },
+    {
+      name: "River Ridge Genuine Lambskin Leather Trifold Wallet (Standard, Black) 02082",
+  	  description: "Trifold Wallet",
+  	  itemNum: "",
+  	  ean: "",
+      price: "",
+  	  image: {
+  		    src: "/images/river-ridge/RR02082.jpg",
+  		    alt: "Trifold Wallet"
+  	  },
+      bullets: [
+        'Size: Approx. 4" x 3"',
+        'Inside Details: 4 Credit Card Inserts, 1 Window ID, 2 Bill Slots'
+      ],
+      amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Standard-02082/dp/B013IFATQ8",
+      soldOut: false,
+      onSale: true
+    },
+    {
+      name: "River Ridge Genuine Lambskin Leather Bifold Wallet (Center Flap, Black) 02081",
+  	  description: "Bifold Wallet",
+  	  itemNum: "",
+  	  ean: "",
+      price: "",
+  	  image: {
+  		    src: "/images/river-ridge/02081E.jpg",
+  		    alt: "Bifold Wallet"
+  	  },
+      bullets: [
+        'Size: Approx. 4.5" x 3.5"',
+        'Inside Details: 12 Credit Card Inserts, 1 Window ID, 2 Bill Slots'
+      ],
+      amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Bifold-02081/dp/B013PV4OPW",
+      soldOut: false,
+      onSale: true
+    },
 
   ]; // end riverRidge
+  
+  var ebk = [
+    {
+      name: "EBK Portable Tablet Stand 47180 (Black)",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/ebk/47180.JPG",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Height adjustable to accommodate many electronic devices",
+        "Quick setup and convenient storage",
+        "Enhances airflow around your electronic device to help keep it cool"
+      ],
+      amazonLink: "http://www.amazon.com/EBK-Portable-Tablet-Stand-47180/dp/B00UZ9C5B8/ref=sr_1_1?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1450986490&sr=1-1&keywords=ebk",
+      soldOut: false,
+      onSale: false
+    },
+    
+  ]; // end ebk
+  
+  var stormTanker = [
+    {
+      name: "Storm Tanker 250 Gallon Water Tank (Blue)",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/edp/250-gallon-blue5.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        'BPA Free Food Grade Plastic Over 1/4" Thick',
+        "The water tank's footprint takes up the same space a 55 gallon drum does while almost holding 5 times the amount of water."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B01BJ2XP8G?keywords=storm%20tanker&m=A2THIGJ83VMAAL&qid=1454808556&ref_=sr_1_1&s=merchant-items&sr=1-1",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Storm Tanker 250 Gallon Water Tank (Granite)",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/edp/250-gallon-granite.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        'BPA Free Food Grade Plastic Over 1/4" Thick',
+        "The water tank's footprint takes up the same space a 55 gallon drum does while almost holding 5 times the amount of water."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B01BJ2XP5E?keywords=storm%20tanker%20granite&m=A2THIGJ83VMAAL&qid=1454808591&ref_=sr_1_1&s=merchant-items&sr=1-1",
+      soldOut: false,
+      onSale: false
+    },
+    
+  ]; // end stormTanker
 
 })();
 
