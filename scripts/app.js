@@ -12,6 +12,7 @@
     this.featured = featured;
     this.videoGames = videoGames;
     this.concertShirts = concertShirts;
+    this.products = products;
   });
 
   var audioTechnica = [
@@ -653,33 +654,490 @@
   ]; // end featured
   
   var videoGames = [
+    {
+      name: "Duel Masters - PlayStation 2",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/duel-masters2.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Unleash 139 cards from the base set and three expansion sets",
+        "Duel in turn-based mode or step up to extreme real-time dueling"
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B00026RFIC?keywords=duel%20masters&m=A2THIGJ83VMAAL&qid=1454352152&ref_=sr_1_1&s=merchant-items&sr=1-1",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "UEFA Euro 2008 - Xbox 360",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/uefa-euro-2008.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Compete as one of 52 teams from qualification right through to a virtual reproduction of UEFA EURO 2008.",
+        "Represent your country online against your rivals around the world to win global supremacy"
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B0010M6IU8?keywords=video%20games&m=A2THIGJ83VMAAL&qid=1454352878&ref_=sr_1_13&s=merchant-items&sr=1-13",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Broken Sword: The Sleeping Dragon - Xbox",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/broken-sword.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "An epic narrative from Europes master interactive storytellers - Revolution Software.",
+        "Wholly intuitive direct control interface fresh gameplay with fluid navigation for full control of the character."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B0000X4M4C?keywords=video%20games&m=A2THIGJ83VMAAL&qid=1454352878&ref_=sr_1_17&s=merchant-items&sr=1-17",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Rise of Kasai - PlayStation 2",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/rise-of-kasai.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Single or multiplayer action as you cook up strategies that will cause the most carnage without getting you noticed",
+        "10 captivating levels and numerous collaborative fighting stages"
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B00004TN1Z?keywords=video%20games&m=A2THIGJ83VMAAL&qid=1454443320&ref_=sr_1_23&s=merchant-items&sr=1-23",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Hunter The Reckoning: Wayward - PlayStation 2",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/hunter.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Choose from five playable characters: each with unique weapons, edges and supernatural powers.",
+        "A little help from your friends: supports two-player cooperative games."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B00008G7DU?keywords=video%20games&m=A2THIGJ83VMAAL&qid=1454443320&ref_=sr_1_9&s=merchant-items&sr=1-9",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Go Pets - Nintendo DS",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/go-pets.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Create your own cat or dog, complete with its own personality and interests",
+        "Go online via Nintendo Wi-Fi Connection to share your pets with others and enjoy fast-paced mini-games"
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B000L422JM?keywords=video%20games&m=A2THIGJ83VMAAL&qid=1454443320&ref_=sr_1_20&s=merchant-items&sr=1-20",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "El Tigre - Nintendo DS",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/el-tigre.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Use the stylus to enter exciting fighting combos to battle the undead minions and save the day!",
+        "Go into Multi-player mode and be able to play Frida."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B000SH3XDG?keywords=video%20games&m=A2THIGJ83VMAAL&qid=1454443320&ref_=sr_1_22&s=merchant-items&sr=1-22",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Street Hoops - PlayStation 2",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/street-hoops2.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Street Hoops brings the aggressive energy and stylish attitude of street basketball into your living room.",
+        "Set up your own team, and then compete in nationwide street court tournaments."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B00005YVTO?keywords=games&m=A2THIGJ83VMAAL&qid=1454454597&ref_=sr_1_12&s=merchant-items&sr=1-12",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Velvet Assassin - XBox 360",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/velvet-assassin2.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Access to a large variety of weapons and stealth gadgets true to 1940's WWII technology.",
+        "Gameplay that is an incredible mix of assassination moves, satisfying firefights and hold-your-breath stealth action."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B002ZNXVTW?keywords=games&m=A2THIGJ83VMAAL&qid=1454454812&ref_=sr_1_26&s=merchant-items&sr=1-26",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "MLB 2005 - PlayStation 2",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/mlb-20052.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Total control of your players",
+        "Pressure-sensitive throwing, outfielders hit their cut-offs, and infielders can get baserunners in run-downs",
+        "Guide your career through the majors in Career Mode"
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B00012QLK0?keywords=games&m=A2THIGJ83VMAAL&qid=1454455130&ref_=sr_1_6&s=merchant-items&sr=1-6",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Tony Hawk 4 - Xbox",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/video-games/tony-hawk-4.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        "Non-linear career mode lets skaters choose the level and goals they want.",
+        "Improved skater physics and animations now allow skating on moving objects like cars, trucks or cranes."
+      ],
+      amazonLink: "http://www.amazon.com/gp/product/B000FMDYI8?keywords=games&m=A2THIGJ83VMAAL&qid=1454455413&ref_=sr_1_19&s=merchant-items&sr=1-19",
+      soldOut: false,
+      onSale: false
+    },
   
   ]; // end videoGames
   
   var concertShirts = [
+    {
+      name: "Boston Distressed Spaceship Mens Charcoal T-Shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture18.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Distressed-Spaceship-Charcoal-T-Shirt-XX-Large/dp/B00PKTF2SQ/ref=sr_1_3?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454385544&sr=1-3&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Van Halen - Winged Devil T-Shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture24.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Van-Halen-Winged-T-shirt-X-large/dp/B005CQRHYO/ref=sr_1_1?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454385544&sr=1-1&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Lynyrd Skynyrd Biker Patch T-shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture15.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Lynyrd-Skynyrd-Biker-Skull-T-Shirt-large/dp/B00945NMA2/ref=sr_1_5?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454385544&sr=1-5&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Def Leppard Pyromania Target Mens T-Shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture3.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Def-Leppard-Mens-T-Shirt-Pyromania/dp/B00PMLWNM0/ref=sr_1_11?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454385544&sr=1-11&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Van Halen Biker Pinup Beige Mens T-shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture25.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/FEA-Halen-Biker-Pinup-T-shirt/dp/B0088XZENY/ref=sr_1_4?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454385544&sr=1-4&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Lynyrd Skynyrd Made In America T-shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture13.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Lynyrd-Skynyrd-America-T-shirt-X-Large/dp/B00BT0HOJK/ref=sr_1_6?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454385544&sr=1-6&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Lynyrd Skynyrd Men's License Plate 1996 T-shirt Black",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture14.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Lynyrd-Skynyrd-License-Plate-T-shirt-xxl/dp/B00KH8UH4E/ref=sr_1_10?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454389056&sr=1-10&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Florida Georgia Line Etched Plate Wings T-Shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture11.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/FEA-Florida-Georgia-Etched-Plate/dp/B00BOJU78G/ref=sr_1_9?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454423908&sr=1-9&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Journey Event T-Shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture22.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Journey-Event-T-Shirt-Large-Black/dp/B007JLNEO2/ref=sr_1_12?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454423908&sr=1-12&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Aerosmith Walk This Way T-shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture2.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Aerosmith-Walk-This-T-shirt-XX-Large/dp/B00H89A6QO/ref=sr_1_14?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454423908&sr=1-14&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Aerosmith Livin on the Edge T-Shirt Red",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture26.png",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/Aerosmith-Mens-Livin-T-shirt-XX-Large/dp/B00BT0DZ66/ref=sr_1_15?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454423908&sr=1-15&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
+    {
+      name: "Men's Allman Brothers Angel T-Shirt",
+  	  description: "",
+  	  itemNum: "",
+  	  upc: "",
+      price: "",
+  	  image: {
+  		    src: "/images/fea/Picture8.jpg",
+  		    alt: ""
+  	  },
+      bullets: [
+        ""
+      ],
+      amazonLink: "http://www.amazon.com/FEA-Brothers-T-Shirt-Cobblestone-2X-Large/dp/B00DSA0GPI/ref=sr_1_7?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454423908&sr=1-7&keywords=clothing",
+      soldOut: false,
+      onSale: false
+    },
   
   ]; //concertShirts
+  
+  var products = [
+    {
+      brand: "River Ridge Wallets",
+      category: "",
+      image: {
+        src: "/images/river-ridge/02080F.jpg",
+        alt: ""
+      },
+      capLink: "/river-ridge.php",
+      amazonLink: ""
+    },
+    {
+      brand: "Concert T-Shirts",
+      category: "",
+      image: {
+        src: "/images/fea/Picture15.png",
+        alt: ""
+      },
+      capLink: "/concert-shirts.php",
+      amazonLink: ""
+    },
+    {
+      brand: "Audio Technica Headphones",
+      category: "",
+      image: {
+        src: "/images/audio-technica/AX1iS.jpg",
+        alt: ""
+      },
+      capLink: "/audio-technica.php",
+      amazonLink: ""
+    },
+    {
+      brand: "EBK Electronics",
+      category: "",
+      image: {
+        src: "/images/ebk/47180.JPG",
+        alt: ""
+      },
+      capLink: "/ebk.php",
+      amazonLink: ""
+    },
+    {
+      brand: "Audiobooks",
+      category: "",
+      image: {
+        src: "/images/audiobooks/the-little-drummer-girl.jpg",
+        alt: ""
+      },
+      capLink: "/audiobooks.php",
+      amazonLink: ""
+    },
+    {
+      brand: "Video Games",
+      category: "",
+      image: {
+        src: "/images/video-games/el-tigre.jpg",
+        alt: ""
+      },
+      capLink: "/video-games.php",
+      amazonLink: ""
+    },
+    {
+      brand: "Storm Tanker Water Tanks",
+      category: "",
+      image: {
+        src: "/images/edp/250-gallon-blue5.jpg",
+        alt: ""
+      },
+      capLink: "/water-tanks.php",
+      amazonLink: ""
+    },
+    
+  ];// end porducts
   
   
 })();
 
-
-/*
-  {
-    name: "",
-	  description: "",
-	  itemNum: "",
-	  upc: "",
-    price: "",
-	  image: {
-		    src: "",
-		    alt: ""
-	  },
-    bullets: [
-      ""
-    ],
-    amazonLink: "",
-    soldOut: false,
-    onSale: false
-  },
-*/

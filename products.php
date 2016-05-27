@@ -14,10 +14,12 @@
   <div class="container">
     <h2>Products</h2>
 
-    <div class="col-md-6">
-        
-        
-    </div>
+    <div class="col-md-6" ng-repeat="product in store.products">
+      <a href ng-href="{{product.capLink}}">
+        <h3>{{product.brand}}</h3>
+        <img ng-src="{{product.image.src}}" />
+      </a>
+    </div>  
 
   </div><?php #End .container ?>
   
