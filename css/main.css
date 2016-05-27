@@ -1,5 +1,7 @@
   /* MAIN */
-
+h2 {
+	text-align: center;
+}
 
 
   /* HEADER */
@@ -95,23 +97,29 @@ nav {
 	
 	
 	/* PRODUCT PAGE */
-h2 {
-	text-align: center;
-}
 .product-info {
 	padding: 10px;
-	min-height: 550px;
+	min-height: 575px;
 }	
 	.product-img {
-		width: 100%;
+		width: 90%;
+		display: block;
+		margin: 0 auto;
 	}
+		.product-img-video-games {
+			width: 70%;
+		}
 	.product-name {
-		
+		height: 80px;
 	}
+		h3 {
+			font-size: 22px;
+		}
 	.product-bullets-ul {
-		list-style-type: none;
+		list-style-type: circle;
 		margin: 10px 0;
 		padding: 0;
+		height: 100px;
 	}
 		.product-bullets-li {
 			
@@ -127,15 +135,19 @@ h2 {
 		}
 	
 	
+	
+	
 	/* NEWS */
 .news-img {
 	width: 100%;
 }	
 	
 	
+	
+	
 	/* FOOTER */
 footer {
-	background: #777777;
+	background: #777;
 	text-align: center;
 	margin: 10px 0 0 0;
 	padding: 10px 0;

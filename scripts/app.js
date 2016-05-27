@@ -517,8 +517,11 @@
         src: "/images/edp/250-gallon-granite.jpg",
         alt: ""
       },
-      newsLink: "",
-      article: "When it comes to extreme situations, water is the most important element for survival. Your body loses on average 2.5 liters (or 2/3 of a gallon) of water everyday, but can handle only a loss of about 10-22% (which happens after about 3 days of no water) of its water weight before it becomes fatal. Secure your family's health by obtaining a fresh water supply now to prepare for emergencies like earthquakes, violent storms, or contaminated public water supplies with this high-capacity water tank. Check out our Storm Tanker Water Tanks today."
+      newsLink: "/water-tanks.php",
+      article: [
+        "When it comes to extreme situations, water is the most important element for survival. Your body loses on average 2.5 liters (or 2/3 of a gallon) of water everyday, but can handle only a loss of about 10-22% (which happens after about 3 days of no water) of its water weight before it becomes fatal. Secure your family's health by obtaining a fresh water supply now to prepare for emergencies like earthquakes, violent storms, or contaminated public water supplies with this high-capacity water tank.",
+        "Check out our Storm Tanker Water Tanks today."
+      ]
     },
     {
       title: "Concert T-shirts",
@@ -527,8 +530,10 @@
         src: "/images/fea/Picture14.png",
         alt: ""
       },
-      newsLink: "",
-      article: "Today we launched our Concert T-shirts on Amazon. We have big bands like Aerosmith, Boston, Van Halen, Lynyrd Skynyrd, and so much more."
+      newsLink: "/concert-shirts.php",
+      article: [
+        "Today we launched our Concert T-shirts on Amazon. We have big bands like Aerosmith, Boston, Van Halen, Lynyrd Skynyrd, and so much more."
+      ]
     },
     {
       title: "Announcing the launch of our River Ridge Wallets",
@@ -537,8 +542,10 @@
         src: "/images/river-ridge/02080F.jpg",
         alt: ""
       },
-      newsLink: "",
-      article: "Do you need a high quality wallet without paying an arms & a leg for it? Check out our Lambskin Wallets today. Our wallets are Genuine Lambskin Leather and come in bifold and trifold."
+      newsLink: "/river-ridge.php",
+      article: [
+        "Do you need a high quality wallet without paying an arms & a leg for it? Check out our Lambskin Wallets today. Our wallets are Genuine Lambskin Leather and come in bifold and trifold."
+      ]
     },
     {
       title: "AudioTechnica SonicFuel Over-Ear Headphones",
@@ -547,8 +554,10 @@
         src: "/images/audio-technica/AX1iSRD2.jpg",
         alt: ""
       },
-      newsLink: "",
-      article: "We now offer Audio Technica Headphones. These headphones have 36 mm drivers for optimal sound, generously cushioned ear pads for comfort during extended wear, and a fold-flat design that allows for easy storage. They also include an in-line mic, volume and track controls, and a play/pause button. Available in black, red, white, blue, and gray."
+      newsLink: "/audio-technica.php",
+      article: [
+        "We now offer Audio Technica Headphones. These headphones have 36 mm drivers for optimal sound, generously cushioned ear pads for comfort during extended wear, and a fold-flat design that allows for easy storage. They also include an in-line mic, volume and track controls, and a play/pause button. Available in black, red, white, blue, and gray."
+      ]  
     },
     {
       title: "Announcing the launch of our EBK Portable Tablet Stand",
@@ -557,8 +566,10 @@
         src: "/images/ebk/47180.JPG",
         alt: ""
       },
-      newsLink: "",
-      article: "Today we launched our EBK Portable Tablet Stand on Amazon. This tablet stand is compatible with iPads, Tablets, Kindles, Backberries, iPhones, iTouches and more. It's ability to fold up makes it extremely travel friendly. We will be releasing more EBK products soon!"
+      newsLink: "/ebk.php",
+      article: [
+        "Today we launched our EBK Portable Tablet Stand on Amazon. This tablet stand is compatible with iPads, Tablets, Kindles, Backberries, iPhones, iTouches and more. It's ability to fold up makes it extremely travel friendly. We will be releasing more EBK products soon!"
+      ]  
     },
     {
       title: "Audiobooks",
@@ -567,8 +578,10 @@
         src: "/images/audiobooks/a-perfect-spy.jpg",
         alt: ""
       },
-      newsLink: "",
-      article: "We now have Audiobooks on Amazon. Come and check out our assortment of John Le Carré audiobooks."
+      newsLink: "/audiobooks.php",
+      article: [
+        "We now have Audiobooks on Amazon. Come and check out our assortment of John Le Carré audiobooks."
+      ]  
     },
     {
       title: "Video Games",
@@ -577,8 +590,10 @@
         src: "/images/video-games/el-tigre.jpg",
         alt: ""
       },
-      newsLink: "",
-      article: "We now offer Video Games. We have a wide variety of games from Xbox 360 to PlayStation 2 to Nintendo DS."
+      newsLink: "/video-games.php",
+      article: [
+        "We now offer Video Games. We have a wide variety of games from Xbox 360 to PlayStation 2 to Nintendo DS."
+      ]
     },
     {
       title: "CAP Distributing",
@@ -587,8 +602,10 @@
         src: "/images/cap/cap-news.png",
         alt: ""
       },
-      newsLink: "",
-      article: "Check out our Amazon Storefront."
+      newsLink: "http://www.amazon.com/shops/A2THIGJ83VMAAL",
+      article: [
+        "Check out our Amazon Storefront."
+      ]
     },
     
   ]; // end news
@@ -1136,7 +1153,7 @@
       amazonLink: ""
     },
     
-  ];// end porducts
+  ];// end products
   
   
 })();

@@ -32,22 +32,26 @@
     
     <div class="row" >
       <div class="col-md-3">
+        <a href ng-href="{{store.news[0].newsLink}}">
           <img class="news-img" ng-src="{{store.news[0].image.src}}" />
+        </a>  
       </div>
       <div class="col-md-9">
           <h3>{{store.news[0].title}}</h3>
           <h4>{{store.news[0].date}}</h4>
-          <p>{{store.news[0].article}}</p>
+          <p ng-repeat="paragraphs in store.news[0].article">{{paragraphs}}</p>
       </div>
     </div>
     <div class="row" >
       <div class="col-md-3">
+        <a href ng-href="{{store.news[1].newsLink}}">
           <img class="news-img" ng-src="{{store.news[1].image.src}}" />
+        </a>  
       </div>
       <div class="col-md-9">
           <h3>{{store.news[1].title}}</h3>
           <h4>{{store.news[1].date}}</h4>
-          <p>{{store.news[1].article}}</p>
+          <p ng-repeat="paragraphs in store.news[1].article">{{paragraphs}}</p>
       </div>
     </div>
     

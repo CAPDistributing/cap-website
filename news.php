@@ -16,12 +16,14 @@
 
     <div class="row" ng-repeat="news in store.news" >
       <div class="col-md-3">
-          <img class="news-img" ng-src="{{news.image.src}}" />
+          <a href ng-href="{{news.newsLink}}">
+            <img class="news-img" ng-src="{{news.image.src}}" />
+          </a>
       </div>
       <div class="col-md-9">
           <h3>{{news.title}}</h3>
           <h4>{{news.date}}</h4>
-          <p>{{news.article}}</p>
+          <p ng-repeat="paragraphs in news.article">{{paragraphs}}</p>
       </div>
     </div>
 
