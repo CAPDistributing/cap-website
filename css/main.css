@@ -43,6 +43,7 @@ nav {
 		display: inline-table;
 		font-weight: bold;
 		z-index: 700;
+		padding: 0;
 	}
 	nav ul:after {
 		content: ""; clear: both; display: inherit;
@@ -95,8 +96,17 @@ nav {
 	/* MAIN CONTENT */
 	
 	
+	/* MAIN PRODUCT PAGE */
+.main-product-img {
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+}	
+.main-product-header {
+	text-align: center;
+}
 	
-	/* PRODUCT PAGE */
+	/* EACH PRODUCT PAGE */
 .product-info {
 	padding: 10px;
 	min-height: 575px;
@@ -138,9 +148,15 @@ nav {
 	
 	
 	/* NEWS */
-.news-img {
-	width: 100%;
-}	
+.news-div {
+	margin-bottom: 20px;
+}
+	.news-div h3 {
+		text-align: center;
+	}
+	.news-img {
+		width: 100%;
+	}	
 	
 	
 	
@@ -164,3 +180,18 @@ footer {
 		padding: 10px;
 	}
 	
+	
+	
+	
+	
+	/* --------------------------------- MOBILE -------------------------------*/
+@media (max-width: 590px) {
+	
+	nav ul li a {
+		padding: 20px 10px;
+	}
+
+	
+	
+	
+}	

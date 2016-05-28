@@ -16,8 +16,8 @@
 
     <div class="col-md-6" ng-repeat="product in store.products">
       <a href ng-href="{{product.capLink}}">
-        <h3>{{product.brand}}</h3>
-        <img ng-src="{{product.image.src}}" />
+        <h3 class="main-product-header">{{product.brand}}</h3>
+        <img class="main-product-img" ng-src="{{product.image.src}}" />
       </a>
     </div>  
 

@@ -422,7 +422,7 @@
       onSale: false
     },
     {
-      name: "The Little Drummer Girl by John Le Carré",
+      name: "The Little Drummer Girl by John Le Carre",
   	  description: "",
   	  itemNum: "",
   	  upc: "",
