@@ -199,5 +199,34 @@ footer {
 
 	
 	
+}	/* End max-width 590px */
+
+
+@media (max-width: 700px) {
 	
-}	
+	 #container {
+		 width: 98%;
+	 }
+		 #container label {
+			 width: 100%;
+			 display: block;
+			 text-align: left;
+		 }
+		 #container input, #container textarea {
+			 width: 100%;
+		 }
+		 #container .rightLabel li div {
+			 width: 98%;
+		 }
+		 #container .rightLabel li span {
+			 width: 48%;
+		 }
+		 #container .rightLabel li span #Field1, #container .rightLabel li span #Field2 {
+			 width: 100%;
+		 }
+		 #container #saveForm {
+			 width: 80px;
+		 }
+
+	
+}	/* End max-width 700px */
