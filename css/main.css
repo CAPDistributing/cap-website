@@ -161,7 +161,9 @@ nav {
 		text-align: center;
 	}
 	.news-img {
-		width: 100%;
+		width: 80%;
+		display: block;
+		margin: 0 auto;
 	}	
 	
 	
@@ -194,20 +196,18 @@ footer {
 @media (max-width: 590px) {
 	
 	/* NAVIGATION */
-	
 	nav ul li a {
 		padding: 20px 10px;
 	}
 
 	
 	
-}	/* End max-width 590px */
+}	/* @media (max-width: 590px) */
 
 
 @media (max-width: 700px) {
 	
 	/* CONTACT FORM */
-	
 	#container {
 		 width: 98%;
 	 }
@@ -234,4 +234,4 @@ footer {
 
 
 	
-}	/* End max-width 700px */
+}	/* End @media (max-width: 700px) */

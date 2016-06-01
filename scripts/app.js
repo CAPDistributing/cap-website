@@ -511,6 +511,19 @@
   
   var news = [
     {
+      title: "Audio Technica ATH-AX3IS SonicFuel Over-Ear Headphones",
+      date: "March 23, 2016",
+      image: {
+        src: "/images/audio-technica/AX3iSBL.jpg",
+        alt: ""
+      },
+      newsLink: "/audio-technica.php",
+      article: [
+        "The ATH-AX3iS over-ear headphones feature large 40 mm drivers for enhanced sound, generously cushioned ear pads and headband for comfort during extended wear, a fold-flat design that allows for easy storage and a flat cord designed to eliminate tangling. In-line mic, volume and track controls let you answer/end calls, play/pause/control music & videos and adjust volume on compatible smartphones and listening devices, all at the touch of a button. Available in black, navy blue, and red.",
+        "They are currently on sale, so don't miss out!"
+      ]
+    },
+    {
       title: "Storm Tanker",
       date: "February 6, 2016",
       image: {
@@ -537,7 +550,7 @@
     },
     {
       title: "Announcing the launch of our River Ridge Wallets",
-      date: "August 6,2015",
+      date: "August 6, 2015",
       image: {
         src: "/images/river-ridge/02080F.jpg",
         alt: ""
