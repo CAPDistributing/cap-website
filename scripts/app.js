@@ -604,7 +604,7 @@
       },
       newsLink: "http://www.amazon.com/shops/A2THIGJ83VMAAL",
       article: [
-        "Check out our Amazon Storefront."
+        "Check out our Amazon Storefront. We offer a wide variety of products. Come back often for more deals."
       ]
     },
     

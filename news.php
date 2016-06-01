@@ -15,7 +15,9 @@
     <h2>News</h2>
 
     <div class="row news-div" ng-repeat="news in store.news" >
-      <h3>{{news.title}}</h3>
+      <a href ng-href="{{news.newsLink}}">
+        <h3>{{news.title}}</h3>
+      </a>  
       <div class="col-md-3">
           <a href ng-href="{{news.newsLink}}">
             <img class="news-img" ng-src="{{news.image.src}}" />
