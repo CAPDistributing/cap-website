@@ -511,7 +511,7 @@
   
   var news = [
     {
-      title: "Audio Technica ATH-AX3IS SonicFuel Over-Ear Headphones",
+      title: "Audio Technica ATH-AX3iS SonicFuel Over-Ear Headphones",
       date: "March 23, 2016",
       image: {
         src: "/images/audio-technica/AX3iSBL.jpg",
@@ -561,7 +561,7 @@
       ]
     },
     {
-      title: "AudioTechnica SonicFuel Over-Ear Headphones",
+      title: "AudioTechnica ATH-AX1iS SonicFuel Over-Ear Headphones",
       date: "June 17, 2015",
       image: {
         src: "/images/audio-technica/AX1iSRD2.jpg",
