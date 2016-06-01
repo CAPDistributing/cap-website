@@ -432,14 +432,14 @@
   		    alt: ""
   	  },
       bullets: [
-        "Haunting and deeply atmospheric, John le Carré’s The Little Drummer Girl is a virtuoso performance and a powerful examination of morality and justice."
+        "Haunting and deeply atmospheric, John le Carre's The Little Drummer Girl is a virtuoso performance and a powerful examination of morality and justice."
       ],
       amazonLink: "http://www.amazon.com/Little-Drummer-Girl-Novel/dp/1611760917/ref=sr_1_86?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1451089092&sr=1-86",
       soldOut: false,
       onSale: false
     },
     {
-      name: "Smiley's People by John Le Carré",
+      name: "Smiley's People by John Le Carre",
   	  description: "",
   	  itemNum: "",
   	  upc: "",
@@ -456,7 +456,7 @@
       onSale: false
     },
     {
-      name: "The Honourable Schoolboy by John Le Carré",
+      name: "The Honourable Schoolboy by John Le Carre",
   	  description: "",
   	  itemNum: "",
   	  upc: "",
@@ -473,7 +473,7 @@
       onSale: false
     },
     {
-      name: "The Spy Who Came In From The Cold by John Le Carré",
+      name: "The Spy Who Came In From The Cold by John Le Carre",
   	  description: "",
   	  itemNum: "",
   	  upc: "",
@@ -490,7 +490,7 @@
       onSale: false
     },
     {
-      name: "A Perfect Spy by John Le Carré",
+      name: "A Perfect Spy by John Le Carre",
   	  description: "",
   	  itemNum: "",
   	  upc: "",
@@ -500,7 +500,7 @@
   		    alt: ""
   	  },
       bullets: [
-        "In A Perfect Spy, John le Carré has crafted one of his crowning masterpieces, interweaving a moving and unusual coming-of-age story with a morally tangled chronicle of modern espionage."
+        "In A Perfect Spy, John le Carre has crafted one of his crowning masterpieces, interweaving a moving and unusual coming-of-age story with a morally tangled chronicle of modern espionage."
       ],
       amazonLink: "http://www.amazon.com/Perfect-Spy-Novel-John-Carre/dp/1611760909/ref=sr_1_103?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1451089634&sr=1-103",
       soldOut: false,
@@ -593,7 +593,7 @@
       },
       newsLink: "/audiobooks.php",
       article: [
-        "We now have Audiobooks on Amazon. Come and check out our assortment of John Le Carré audiobooks."
+        "We now have Audiobooks on Amazon. Come and check out our assortment of John Le Carre audiobooks."
       ]  
     },
     {

@@ -19,7 +19,6 @@
       <h3 class="product-name">{{product.name}}</h3>
       <ul class="product-bullets-ul">
         <li class="product-bullets-li">{{product.bullets[0]}}</li>
-        <li class="product-bullets-li">{{product.bullets[1]}}</li>
       </ul>
       <a class="buy-button" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
     </div>
