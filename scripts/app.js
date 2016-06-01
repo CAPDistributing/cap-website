@@ -524,7 +524,7 @@
       ]
     },
     {
-      title: "Storm Tanker",
+      title: "Storm Tanker Water Tanks",
       date: "February 6, 2016",
       image: {
         src: "/images/edp/250-gallon-granite.jpg",
