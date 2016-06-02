@@ -12,7 +12,12 @@
   <?php include_once("nav.html"); ?>
   <div class="container">
     
-    <h2>Our New Items!</h2>
+    <h2>Who We Are</h2>
+    <p class="who-we-are-p">We are a small business that strives to provide the best products at the lowest price. We offer a wide variety of items from Headphones to Water Tanks. All of our items are available on <a href="http://www.amazon.com/shops/A2THIGJ83VMAAL">Amazon.com</a>.</p>
+    
+    <br><hr><br>
+    
+    <h2>Our New Items</h2>
     
     <div class="row">
       <div class="col-md-4 product-info" ng-repeat="product in store.featured">
