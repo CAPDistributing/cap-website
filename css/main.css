@@ -120,6 +120,9 @@ nav {
 	padding: 10px;
 	min-height: 575px;
 }	
+	.product-info-video-games {
+		height: 625px;
+	}
 	.product-img {
 		width: 90%;
 		display: block;

@@ -14,7 +14,7 @@
   <div class="container">
     <h2>Video Games</h2>
 
-    <div class="col-md-4 product-info" ng-repeat="product in store.videoGames" ng-hide="product.soldOut">
+    <div class="col-md-4 product-info product-info-video-games" ng-repeat="product in store.videoGames" ng-hide="product.soldOut">
       <img class="product-img product-img-video-games" ng-src="{{product.image.src}}" />
       <h3 class="product-name">{{product.name}}</h3>
       <ul class="product-bullets-ul">
