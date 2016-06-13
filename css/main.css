@@ -170,6 +170,13 @@ nav {
 	}	
 	
 	
+	/* CONTACT US */
+.contact-form {
+	padding: 10px;
+}
+	.contact-instructions {
+		text-align: center;
+	}	
 	
 	
 	/* FOOTER */
@@ -206,35 +213,3 @@ footer {
 	
 	
 }	/* @media (max-width: 590px) */
-
-
-@media (max-width: 700px) {
-	
-	/* CONTACT FORM */
-	#container {
-		 width: 98%;
-	 }
-		 #container label {
-			 width: 100%;
-			 display: block;
-			 text-align: left;
-		 }
-		 #container input, #container textarea {
-			 width: 100%;
-		 }
-		 #container .rightLabel li div {
-			 width: 100%;
-		 }
-		 #container .rightLabel li span {
-			 width: 100%;
-		 }
-		 #container .rightLabel li span #Field1, #container .rightLabel li span #Field2 {
-			 width: 100%;
-		 }
-		 #container #saveForm {
-			 width: 80px;
-		 }
-
-
-	
-}	/* End @media (max-width: 700px) */
