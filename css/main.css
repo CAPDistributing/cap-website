@@ -209,6 +209,9 @@ footer {
 @media (max-width: 590px) {
 	
 	/* NAVIGATION */
+	nav ul li:hover > ul {
+	 	display: none;
+ 	}
 	nav ul li a {
 		padding: 20px 10px;
 	}
