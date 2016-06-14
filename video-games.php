@@ -21,7 +21,7 @@
         <li class="product-bullets-li">{{product.bullets[0]}}</li>
         <li class="product-bullets-li">{{product.bullets[1]}}</li>
       </ul>
-      <a class="buy-button" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
+      <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
     </div>
 
   </div><?php #End .container ?>
