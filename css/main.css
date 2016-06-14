@@ -103,11 +103,14 @@ nav {
 	
 	
 	/* MAIN PRODUCT PAGE */
-.main-product-img {
-	width: 80%;
-	display: block;
-	margin: 0 auto;
-}	
+.main-product-img-div {
+	height: 500px;
+}
+	.main-product-img {
+		width: 80%;
+		display: block;
+		margin: 0 auto;
+	}	
 .main-product-header {
 	text-align: center;
 }
@@ -216,6 +219,11 @@ footer {
  	}
 	nav ul li a {
 		padding: 20px 10px;
+	}
+	
+	/* MAIN PRODUCT PAGE */
+	.main-product-img-div {
+		height: 250px;
 	}
 
 	
