@@ -18,7 +18,6 @@
       <img class="product-img product-img-concert-shirts" ng-src="{{product.image.src}}" />
       <h3 class="product-name">{{product.name}}</h3>
       <ul class="product-bullets-ul">
-        <li class="product-bullets-li">{{product.bullets[0]}}</li>
         <li class="product-bullets-li">Availiable in multiple sizes</li>
       </ul>
       <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>

@@ -781,7 +781,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/go-pets.jpg",
+  		    src: "/images/video-games/go-pets2.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -799,7 +799,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/el-tigre.jpg",
+  		    src: "/images/video-games/el-tigre2.jpg",
   		    alt: ""
   	  },
       bullets: [
