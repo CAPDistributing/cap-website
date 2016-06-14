@@ -263,7 +263,7 @@
       ],
       amazonLink: "http://www.amazon.com/dp/B013IFATOK/ref=twister_B013Q5PIIO?_encoding=UTF8&psc=1",
       soldOut: false,
-      onSale: true
+      onSale: false
     },
     {
       name: "River Ridge Genuine Lambskin Leather Bifold Wallet (Side Flap, Black) 02079",
@@ -281,7 +281,7 @@
       ],
       amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Bifold-02079/dp/B013PV4OPM",
       soldOut: false,
-      onSale: true
+      onSale: false
     },
     {
       name: "River Ridge Genuine Lambskin Leather Bifold Wallet (Standard, Black) 02084",
@@ -299,7 +299,7 @@
       ],
       amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Standard-02084/dp/B013PV4OP2",
       soldOut: false,
-      onSale: true
+      onSale: false
     },
     {
       name: "River Ridge Genuine Lambskin Leather Trifold Wallet (Standard, Black) 02082",
@@ -317,7 +317,7 @@
       ],
       amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Standard-02082/dp/B013IFATQ8",
       soldOut: false,
-      onSale: true
+      onSale: false
     },
     {
       name: "River Ridge Genuine Lambskin Leather Bifold Wallet (Center Flap, Black) 02081",
@@ -335,7 +335,7 @@
       ],
       amazonLink: "http://www.amazon.com/Genuine-Lambskin-Leather-Bifold-02081/dp/B013PV4OPW",
       soldOut: false,
-      onSale: true
+      onSale: false
     },
 
   ]; // end riverRidge
