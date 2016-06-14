@@ -13,7 +13,13 @@
   <div class="container">
     
     <h2>Who We Are</h2>
-    <p class="who-we-are-p">We are a small business that strives to provide the best products at the lowest price. We offer a wide variety of items from Headphones to Water Tanks. All of our items are available on <a href="http://www.amazon.com/shops/A2THIGJ83VMAAL">Amazon.com</a>.</p>
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <p class="who-we-are-p">We are a small business that strives to provide the best products at the lowest price. We offer a wide variety of items from Headphones to Water Tanks. All of our items are available on <a href="http://www.amazon.com/shops/A2THIGJ83VMAAL">Amazon.com</a>.</p>
+        <p class="who-we-are-p">If you'd like to be contacted about our weekly deals, let us know <a href="/contact.php">here</a> and we will send you an email of our weekly deals.</p>
+      </div>
+    </div>
     
     <br><hr><br>
     
