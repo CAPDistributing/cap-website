@@ -339,7 +339,7 @@
     },
 
   ]; // end riverRidge
-  
+
   var ebk = [
     {
       name: "EBK Portable Tablet Stand 47180 (Black)",
@@ -360,9 +360,9 @@
       soldOut: false,
       onSale: false
     },
-    
+
   ]; // end ebk
-  
+
   var stormTanker = [
     {
       name: "Storm Tanker 250 Gallon Water Tank (Blue)",
@@ -400,9 +400,9 @@
       soldOut: false,
       onSale: false
     },
-    
+
   ]; // end stormTanker
-  
+
   var audiobooks = [
     {
       name: "The Race by Clive Cussler & Justin Scott",
@@ -506,9 +506,9 @@
       soldOut: false,
       onSale: false
     },
-  
+
   ]; // end audiobooks
-  
+
   var news = [
     {
       title: "Audio Technica ATH-AX3iS SonicFuel Over-Ear Headphones",
@@ -570,7 +570,7 @@
       newsLink: "/audio-technica.php",
       article: [
         "We now offer Audio Technica Headphones. These headphones have 36 mm drivers for optimal sound, generously cushioned ear pads for comfort during extended wear, and a fold-flat design that allows for easy storage. They also include an in-line mic, volume and track controls, and a play/pause button. Available in black, red, white, blue, and gray."
-      ]  
+      ]
     },
     {
       title: "Announcing the launch of our EBK Portable Tablet Stand",
@@ -582,7 +582,7 @@
       newsLink: "/ebk.php",
       article: [
         "Today we launched our EBK Portable Tablet Stand on Amazon. This tablet stand is compatible with iPads, Tablets, Kindles, Backberries, iPhones, iTouches and more. It's ability to fold up makes it extremely travel friendly. We will be releasing more EBK products soon!"
-      ]  
+      ]
     },
     {
       title: "Audiobooks",
@@ -594,7 +594,7 @@
       newsLink: "/audiobooks.php",
       article: [
         "We now have Audiobooks on Amazon. Come and check out our assortment of John Le Carre audiobooks."
-      ]  
+      ]
     },
     {
       title: "Video Games",
@@ -620,7 +620,7 @@
         "Check out our Amazon Storefront. We offer a wide variety of products. Come back often for more deals."
       ]
     },
-    
+
   ]; // end news
 
   var featured = [
@@ -680,9 +680,9 @@
       soldOut: false,
       onSale: false
     },
-    
+
   ]; // end featured
-  
+
   var videoGames = [
     {
       name: "Duel Masters - PlayStation 2",
@@ -883,9 +883,9 @@
       soldOut: false,
       onSale: false
     },
-  
+
   ]; // end videoGames
-  
+
   var concertShirts = [
     {
       name: "Boston Distressed Spaceship Mens Charcoal T-Shirt",
@@ -1037,7 +1037,7 @@
         ""
       ],
       amazonLink: "http://www.amazon.com/Journey-Event-T-Shirt-Large-Black/dp/B007JLNEO2/ref=sr_1_12?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1454423908&sr=1-12&keywords=clothing",
-      soldOut: false,
+      soldOut: true,
       onSale: false
     },
     {
@@ -1091,9 +1091,9 @@
       soldOut: false,
       onSale: false
     },
-  
+
   ]; //concertShirts
-  
+
   var products = [
     {
       brand: "River Ridge Wallets",
@@ -1165,9 +1165,8 @@
       capLink: "/water-tanks.php",
       amazonLink: ""
     },
-    
-  ];// end products
-  
-  
-})();
 
+  ];// end products
+
+
+})();
