@@ -1,0 +1,47 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^water\-tanks\.html$ "http\:\/\/capdistributing\.com\/water\-tanks\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^video\-games\.html$ "http\:\/\/capdistributing\.com\/video\-games\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^audiobooks\.html$ "http\:\/\/capdistributing\.com\/audiobooks\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^ebk\.html$ "http\:\/\/http\:\/\/capdistributing\.com\/ebk\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^audio\-technica\.html$ "http\:\/\/http\:\/\/capdistributing\.com\/audio\-technica\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^concert\-shirts\.html$ "http\:\/\/capdistributing\.com\/concert\-shirts\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^river\-ridge\.html$ "http\:\/\/capdistributing\.com\/river\-ridge\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^news\.html$ "http\:\/\/capdistributing\.com\/news\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^contact\.html$ "http\:\/\/capdistributing\.com\/contact\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^products\.html$ "http\:\/\/capdistributing\.com\/products\.php" [R=301,L]
+
+# Use PHP5.4 as default
+AddHandler application/x-httpd-php54 .php
+RewriteCond %{HTTP_HOST} ^capdistributing\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.capdistributing\.com$
+RewriteRule ^index\.html$ "http\:\/\/capdistributing\.com\/index\.php" [R=301,L]
