@@ -3,7 +3,7 @@
 <html>
 <head>
 
-  <title>400 Error - CAP Distributing</title>
+  <title>400 Bad Request - CAP Distributing</title>
   <!--#include virtual="head.html" -->
 
 </head>
@@ -15,7 +15,7 @@
   <div class="container" style="min-height: 400px;">
 
     <h2>400 Bad Request</h2>
-    <p style="text-align: center; max-width: 400px; padding: 20px; margin: 0 auto;">Invalid request.</p>
+    <p class="alert-message">Invalid request.</p>
 
   </div>
 

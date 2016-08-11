@@ -15,7 +15,7 @@
   <div class="container" style="min-height: 400px;">
 
     <h2>500 Server Error</h2>
-    <p style="text-align: center; max-width: 400px; margin: 0 auto;">A misconfiguration on the server caused a hiccup.
+    <p class="alert-message">A misconfiguration on the server caused a hiccup.
     Check the server logs, fix the problem, then try again.</p>
 
     <?

@@ -8,8 +8,8 @@ h2 {
 header {
   max-width: 500px;
   margin: 0 auto;
-  
-}  
+
+}
 
 
 	/* NAV */
@@ -91,17 +91,17 @@ nav {
 		left: 100%;
 		top:0;
 	}
-	
-	
+
+
 	/* MAIN CONTENT */
 .who-we-are-p {
 	text-align: center;
 	font-size: 16px;
-}	
-	
-	
-	
-	
+}
+
+
+
+
 	/* MAIN PRODUCT PAGE */
 .main-product-img-div {
 	height: 500px;
@@ -110,19 +110,19 @@ nav {
 		width: 80%;
 		display: block;
 		margin: 0 auto;
-	}	
+	}
 .main-product-header {
 	text-align: center;
 }
-	
-	
-	
-	
+
+
+
+
 	/* EACH PRODUCT PAGE */
 .product-info {
 	padding: 10px;
 	min-height: 575px;
-}	
+}
 	.product-info-video-games {
 		height: 625px;
 	}
@@ -150,7 +150,7 @@ nav {
 		height: 100px;
 	}
 		.product-bullets-li {
-			
+
 		}
 	.btn-cap {
 		background: #0091ce;
@@ -160,10 +160,10 @@ nav {
 			background: #037eb1;
 			color: white;
 		}
-	
-	
-	
-	
+
+
+
+
 	/* NEWS */
 .news-div {
 	margin-bottom: 20px;
@@ -175,18 +175,18 @@ nav {
 		width: 80%;
 		display: block;
 		margin: 0 auto;
-	}	
-	
-	
+	}
+
+
 	/* CONTACT US */
 .contact-form {
 	padding: 10px;
 }
 	.contact-instructions {
 		text-align: center;
-	}	
-	
-	
+	}
+
+
 	/* FOOTER */
 footer {
 	background: #777;
@@ -205,14 +205,21 @@ footer {
 	footer p {
 		padding: 10px;
 	}
-	
-	
-	
-	
-	
+
+
+  /* MISC */
+.alert-message {
+  text-align: center;
+  max-width: 400px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+
+
 	/* --------------------------------- MOBILE -------------------------------*/
 @media (max-width: 590px) {
-	
+
 	/* NAVIGATION */
 	nav ul li:hover > ul {
 	 	display: none;
@@ -220,12 +227,12 @@ footer {
 	nav ul li a {
 		padding: 20px 10px;
 	}
-	
+
 	/* MAIN PRODUCT PAGE */
 	.main-product-img-div {
 		height: 250px;
 	}
 
-	
-	
+
+
 }	/* @media (max-width: 590px) */
