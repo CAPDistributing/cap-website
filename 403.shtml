@@ -1,7 +1,27 @@
-<html><head><title>403 Permission Denied</title></head>
-<body bgcolor=white>
-<h1>403 Permission Denied</h1>
 
-You do not have permission for this request <!--#echo var="REQUEST_URI" -->
+<!DOCTYPE html>
+<html>
+<head>
 
-</body></html>
+  <title>403 Permission Denied - CAP Distributing</title>
+  <!--#include virtual="head.html" -->
+
+</head>
+<body>
+
+  <!--#include virtual="cap-logo.html" -->
+  <!--#include virtual="nav.html" -->
+
+  <div class="container" style="min-height: 400px;">
+
+    <h2>403 Permission Denied</h2>
+    <p style="text-align: center; max-width: 400px; padding: 20px; margin: 0 auto;">You do not have permission for this request.</p>
+
+    <!--#echo var="REQUEST_URI" -->
+
+  </div>
+
+  <!--#include virtual="footer.html" -->
+
+</body>
+</html>

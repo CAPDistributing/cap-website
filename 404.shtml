@@ -1,2 +1,24 @@
-<!-- SHTML Wrapper - 404 Not Found -->
-<!--#exec cgi="/cgi-sys/fourohfour.cgi" -->
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>404 Error - CAP Distributing</title>
+  <!--#include virtual="head.html" -->
+
+</head>
+<body>
+
+  <!--#include virtual="cap-logo.html" -->
+  <!--#include virtual="nav.html" -->
+
+  <div class="container" style="min-height: 400px;">
+
+    <h2>404 Error</h2>
+    <p style="text-align: center; max-width: 400px; padding: 20px; margin: 0 auto;">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+
+  </div>
+
+  <!--#include virtual="footer.html" -->
+
+</body>
+</html>

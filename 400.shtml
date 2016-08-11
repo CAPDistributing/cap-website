@@ -1,7 +1,25 @@
-<html><head><title>400 Bad Request</title></head>
-<body bgcolor=white>
-<h1>400 Bad Request</h1>
 
-Invalid request.
+<!DOCTYPE html>
+<html>
+<head>
 
-</body></html>
+  <title>400 Error - CAP Distributing</title>
+  <!--#include virtual="head.html" -->
+
+</head>
+<body>
+
+  <!--#include virtual="cap-logo.html" -->
+  <!--#include virtual="nav.html" -->
+
+  <div class="container" style="min-height: 400px;">
+
+    <h2>400 Bad Request</h2>
+    <p style="text-align: center; max-width: 400px; padding: 20px; margin: 0 auto;">Invalid request.</p>
+
+  </div>
+
+  <!--#include virtual="footer.html" -->
+
+</body>
+</html>
