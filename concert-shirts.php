@@ -14,13 +14,15 @@
   <div class="container">
     <h2>Concert Shirts</h2>
 
-    <div class="col-md-4 product-info" ng-repeat="product in store.concertShirts" ng-hide="product.soldOut">
-      <img class="product-img product-img-concert-shirts" ng-src="{{product.image.src}}" />
-      <h3 class="product-name">{{product.name}}</h3>
-      <ul class="product-bullets-ul">
-        <li class="product-bullets-li">Availiable in multiple sizes</li>
-      </ul>
-      <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
+    <div class="row">
+      <div class="col-md-4 product-info" ng-repeat="product in store.concertShirts" ng-hide="product.soldOut">
+        <img class="product-img product-img-concert-shirts" ng-src="{{product.image.src}}" />
+        <h3 class="product-name">{{product.name}}</h3>
+        <ul class="product-bullets-ul">
+          <li class="product-bullets-li">Availiable in multiple sizes</li>
+        </ul>
+        <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
+      </div>
     </div>
 
   </div><?php #End .container ?>
