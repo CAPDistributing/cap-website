@@ -2,7 +2,7 @@
 <html>
 <head>
 
-  <title>404 Error - CAP Distributing</title>
+  <title>404 Not Found - CAP Distributing</title>
   <!--#include virtual="head.html" -->
 
 </head>
@@ -13,8 +13,14 @@
 
   <div class="container" style="min-height: 400px;">
 
-    <h2>404 Error</h2>
+    <h2>404 Not Found</h2>
     <p class="alert-message">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+
+    <p>We are sorry for the inconvenience. Please enjoy this cute video of a baby dancing to Hip Hop.</p>
+
+    <div class="videoWrapper">
+      <iframe class="youtube-video" src="https://www.youtube.com/embed/KMEAgsPB1JY" frameborder="0" allowfullscreen></iframe>
+    </div>
 
   </div>
 
