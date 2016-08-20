@@ -1,2 +1,32 @@
-<!-- SHTML Wrapper - 404 Not Found -->
-<!--#exec cgi="/cgi-sys/fourohfour.cgi" -->
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>404 Not Found - CAP Distributing</title>
+  <!--#include virtual="head.html" -->
+
+</head>
+<body>
+
+  <!--#include virtual="cap-logo.html" -->
+  <!--#include virtual="nav.html" -->
+
+  <div class="container" style="min-height: 400px;">
+
+    <h2>404 Not Found</h2>
+    <p class="alert-message">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+
+    <p>We are sorry for the inconvenience. Please enjoy this cute video of a baby dancing to Hip Hop.</p>
+
+    <div class="col-md-8 col-md-offset-2">
+      <div class="videoWrapper">
+        <iframe class="youtube-video" src="https://www.youtube.com/embed/KMEAgsPB1JY" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+  </div>
+
+  <!--#include virtual="footer.html" -->
+
+</body>
+</html>

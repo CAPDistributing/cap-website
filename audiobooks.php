@@ -13,14 +13,16 @@
   
   <div class="container">
     <h2>Audiobooks</h2>
-
-    <div class="col-md-4 product-info" ng-repeat="product in store.audiobooks" ng-hide="product.soldOut">
-      <img class="product-img" ng-src="{{product.image.src}}" />
-      <h3 class="product-name">{{product.name}}</h3>
-      <ul class="product-bullets-ul">
-        <li class="product-bullets-li">{{product.bullets[0]}}</li>
-      </ul>
-      <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
+    
+    <div class="row">
+      <div class="col-md-4 product-info" ng-repeat="product in store.audiobooks" ng-hide="product.soldOut">
+        <img class="product-img" ng-src="{{product.image.src}}" />
+        <h3 class="product-name">{{product.name}}</h3>
+        <ul class="product-bullets-ul">
+          <li class="product-bullets-li">{{product.bullets[0]}}</li>
+        </ul>
+        <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
+      </div>
     </div>
 
   </div><?php #End .container ?>
