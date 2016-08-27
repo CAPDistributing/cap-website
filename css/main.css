@@ -242,9 +242,27 @@ footer {
 
 	/* MAIN PRODUCT PAGE */
 	.main-product-img-div {
-		height: 250px;
+		height: auto;
 	}
+	
+	/* EACH PRODUCT PAGE */
+	.product-info {
+		min-height: auto;
+	}
+		.product-img-video-games {
+			width: 40%;
+		}
 
 
 
 }	/* @media (max-width: 590px) */
+
+
+@media (max-width: 400px) {
+	
+	/* EACH PRODUCT PAGE */
+	.product-img-video-games {
+		width: 70%;
+	}
+	
+}
