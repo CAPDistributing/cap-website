@@ -16,7 +16,7 @@
     <h2>404 Not Found</h2>
     <p class="alert-message">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
 
-    <p>We are sorry for the inconvenience. Please enjoy this cute video of a baby dancing to Hip Hop.</p>
+    <p class="alert-message">We are sorry for the inconvenience. Please enjoy this cute video of a baby dancing to Hip Hop.</p>
 
     <div class="col-md-8 col-md-offset-2">
       <div class="videoWrapper">
