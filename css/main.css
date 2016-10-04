@@ -2,6 +2,9 @@
 h2 {
 	text-align: center;
 }
+svg {
+  max-height: 100%;
+}
 
 
   /* HEADER */
@@ -251,7 +254,7 @@ footer {
 		.product-img-concert-shirts {
 			width: 60%;
 		}
-	
+
 	/* EACH PRODUCT PAGE */
 	.product-info {
 		min-height: auto;
@@ -259,7 +262,7 @@ footer {
 		.product-img {
 			width: 50%;
 		}
-	
+
 	/* NEWS */
 	.news-img {
 		width: 40%;
@@ -271,12 +274,12 @@ footer {
 
 
 @media (max-width: 400px) {
-	
+
 	/* MAIN PRODUCT PAGE */
 	.main-product-img {
 		width: 80%;
 	}
-	
+
 	/* EACH PRODUCT PAGE */
 	.product-img {
 		width: 90%;
@@ -284,10 +287,10 @@ footer {
 		.product-img-video-games {
 			width: 70%;
 		}
-	
+
 	/* NEWS */
 	.news-img {
 		width: 80%;
 	}
-	
+
 }	/* @media (max-width: 400px) */
