@@ -4,13 +4,13 @@
 <head>
 
   <title>401 Authorization Required - CAP Distributing</title>
-  <!--#include virtual="head.html" -->
+  <!--#include virtual="templates/head.html" -->
 
 </head>
 <body>
 
-  <!--#include virtual="cap-logo.html" -->
-  <!--#include virtual="nav.html" -->
+  <!--#include virtual="templates/cap-logo.html" -->
+  <!--#include virtual="templates/nav.html" -->
 
   <div class="container" style="min-height: 400px;">
 
@@ -19,7 +19,7 @@
 
   </div>
 
-  <!--#include virtual="footer.html" -->
+  <!--#include virtual="templates/footer.html" -->
 
 </body>
 </html>
