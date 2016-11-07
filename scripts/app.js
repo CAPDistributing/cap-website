@@ -155,7 +155,7 @@
   	  upc: "4961310126285",
       price: "27.99",
   	  image: {
-  		    src: "images/audio-technica/AX1iSBK2.jpg",
+  		    src: "/images/audio-technica/AX1iSBK2.jpg",
   		    alt: "Black Headphones"
   	  },
       bullets: [
@@ -174,7 +174,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "images/audio-technica/AX1iSWH2.jpg",
+  		    src: "/images/audio-technica/AX1iSWH2.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -193,7 +193,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "images/audio-technica/AX1iSGY2.jpg",
+  		    src: "/images/audio-technica/AX1iSGY2.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -212,7 +212,7 @@
   	  upc: "4961310126315",
       price: "27.99",
   	  image: {
-  		    src: "images/audio-technica/AX1iSRD2.jpg",
+  		    src: "/images/audio-technica/AX1iSRD2.jpg",
   		    alt: "Red Headphones"
   	  },
       bullets: [
@@ -231,7 +231,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "images/audio-technica/AX1iSBL2.jpg",
+  		    src: "/images/audio-technica/AX1iSBL2.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -517,7 +517,7 @@
         src: "/images/audio-technica/AX3iSBL.jpg",
         alt: ""
       },
-      newsLink: "/audio-technica.php",
+      newsLink: "/products/audio-technica.php",
       article: [
         "The ATH-AX3iS over-ear headphones feature large 40 mm drivers for enhanced sound, generously cushioned ear pads and headband for comfort during extended wear, a fold-flat design that allows for easy storage and a flat cord designed to eliminate tangling. In-line mic, volume and track controls let you answer/end calls, play/pause/control music & videos and adjust volume on compatible smartphones and listening devices, all at the touch of a button. Available in black, navy blue, and red.",
         "They are currently on sale, so don't miss out!"
@@ -530,7 +530,7 @@
         src: "/images/edp/250-gallon-granite.jpg",
         alt: ""
       },
-      newsLink: "/water-tanks.php",
+      newsLink: "/products/water-tanks.php",
       article: [
         "When it comes to extreme situations, water is the most important element for survival. Your body loses on average 2.5 liters (or 2/3 of a gallon) of water everyday, but can handle only a loss of about 10-22% (which happens after about 3 days of no water) of its water weight before it becomes fatal. Secure your family's health by obtaining a fresh water supply now to prepare for emergencies like earthquakes, violent storms, or contaminated public water supplies with this high-capacity water tank.",
         "Check out our Storm Tanker Water Tanks today."
@@ -543,7 +543,7 @@
         src: "/images/fea/Picture14.png",
         alt: ""
       },
-      newsLink: "/concert-shirts.php",
+      newsLink: "/products/concert-shirts.php",
       article: [
         "Today we launched our Concert T-shirts on Amazon. We have big bands like Aerosmith, Boston, Van Halen, Lynyrd Skynyrd, and so much more."
       ]
@@ -555,7 +555,7 @@
         src: "/images/river-ridge/02080F.jpg",
         alt: ""
       },
-      newsLink: "/river-ridge.php",
+      newsLink: "/products/river-ridge.php",
       article: [
         "Do you need a high quality wallet without paying an arms & a leg for it? Check out our Lambskin Wallets today. Our wallets are Genuine Lambskin Leather and come in bifold and trifold."
       ]
@@ -567,7 +567,7 @@
         src: "/images/audio-technica/AX1iSRD2.jpg",
         alt: ""
       },
-      newsLink: "/audio-technica.php",
+      newsLink: "/products/audio-technica.php",
       article: [
         "We now offer Audio Technica Headphones. These headphones have 36 mm drivers for optimal sound, generously cushioned ear pads for comfort during extended wear, and a fold-flat design that allows for easy storage. They also include an in-line mic, volume and track controls, and a play/pause button. Available in black, red, white, blue, and gray."
       ]
@@ -579,7 +579,7 @@
         src: "/images/ebk/47180.JPG",
         alt: ""
       },
-      newsLink: "/ebk.php",
+      newsLink: "/products/ebk.php",
       article: [
         "Today we launched our EBK Portable Tablet Stand on Amazon. This tablet stand is compatible with iPads, Tablets, Kindles, Backberries, iPhones, iTouches and more. It's ability to fold up makes it extremely travel friendly. We will be releasing more EBK products soon!"
       ]
@@ -591,7 +591,7 @@
         src: "/images/audiobooks/a-perfect-spy.jpg",
         alt: ""
       },
-      newsLink: "/audiobooks.php",
+      newsLink: "/products/audiobooks.php",
       article: [
         "We now have Audiobooks on Amazon. Come and check out our assortment of John Le Carre audiobooks."
       ]
@@ -603,7 +603,7 @@
         src: "/images/video-games/el-tigre.jpg",
         alt: ""
       },
-      newsLink: "/video-games.php",
+      newsLink: "/products/video-games.php",
       article: [
         "We now offer Video Games. We have a wide variety of games from Xbox 360 to PlayStation 2 to Nintendo DS."
       ]
@@ -1102,7 +1102,7 @@
         src: "/images/river-ridge/02080F.jpg",
         alt: ""
       },
-      capLink: "/river-ridge.php",
+      capLink: "/products/river-ridge.php",
       amazonLink: ""
     },
     {
@@ -1112,7 +1112,7 @@
         src: "/images/fea/Picture15.png",
         alt: ""
       },
-      capLink: "/concert-shirts.php",
+      capLink: "/products/concert-shirts.php",
       amazonLink: ""
     },
     {
@@ -1122,7 +1122,7 @@
         src: "/images/audio-technica/AX1iS.jpg",
         alt: ""
       },
-      capLink: "/audio-technica.php",
+      capLink: "/products/audio-technica.php",
       amazonLink: ""
     },
     {
@@ -1132,7 +1132,7 @@
         src: "/images/ebk/47180.JPG",
         alt: ""
       },
-      capLink: "/ebk.php",
+      capLink: "/products/ebk.php",
       amazonLink: ""
     },
     {
@@ -1142,7 +1142,7 @@
         src: "/images/audiobooks/the-little-drummer-girl.jpg",
         alt: ""
       },
-      capLink: "/audiobooks.php",
+      capLink: "/products/audiobooks.php",
       amazonLink: ""
     },
     {
@@ -1152,7 +1152,7 @@
         src: "/images/video-games/el-tigre.jpg",
         alt: ""
       },
-      capLink: "/video-games.php",
+      capLink: "/products/video-games.php",
       amazonLink: ""
     },
     {
@@ -1162,7 +1162,7 @@
         src: "/images/edp/250-gallon-blue5.jpg",
         alt: ""
       },
-      capLink: "/water-tanks.php",
+      capLink: "/products/water-tanks.php",
       amazonLink: ""
     },
 
