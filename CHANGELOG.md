@@ -3,6 +3,7 @@
 ## v2.0.1
 ### Features
  * Upgraded Routing
+
 ### Bug Fixes
  * Minor bug fixes
 
