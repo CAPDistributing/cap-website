@@ -1,2 +1,3 @@
-# CAP Distributing Version 2
-[CAP Distributing Website](http://www.capdistributing.com) version 2 using Angular.js and Bootstrap
+# CAP Website
+
+This repo has the source code for [CAP Distributing's](https://www.capdistributing.com) website.

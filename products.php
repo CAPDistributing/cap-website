@@ -3,13 +3,13 @@
 <head>
   
 	<title>Products - CAP Distributing</title>
-  <?php include_once("head.html"); ?>
+  <?php include_once("templates/head.html"); ?>
   
 </head>
 <body ng-controller="StoreController as store">
   
-  <?php include_once("cap-logo.html"); ?>
-  <?php include_once("nav.html"); ?>
+  <?php include_once("templates/cap-logo.html"); ?>
+  <?php include_once("templates/nav.html"); ?>
   
   <div class="container">
     <h2>Products</h2>
@@ -25,7 +25,7 @@
 
   </div><?php #End .container ?>
   
-  <?php include_once("footer.html"); ?>
+  <?php include_once("templates/footer.html"); ?>
   
 </body>
 </html>
