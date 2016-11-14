@@ -1,0 +1,43 @@
+
+<div class="modal fade" id="holidaySaleModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h2 class="modal-title" id="myModalLabel">Holiday sale!!</h2>
+        </div>
+        <div class="modal-body">
+          
+            <h3 id="modal-item-title">Audio Technica AX3iS (Black)</h3>
+            <div class="modal-image-div">
+                <img src="/images/audio-technica/AX3iSBK.jpg" alt="Audio Technica Headphone" class="modal-image" />
+            </div>
+            <p><s>Was: $79.99</s> Now: $49.99</p>
+            <p>Available in 
+                <a href="http://www.amazon.com/AudioTechnica-ATH-AX3IS-SonicFuel-Over-Ear-Headphones/dp/B00JTBHCR0?ie=UTF8&m=A2THIGJ83VMAAL&qid=1459574341&ref_=sr_1_73&s=merchant-items&sr=1-73">Black</a>, 
+                <a href="http://www.amazon.com/AudioTechnica-ATH-AX3IS-SonicFuel-Over-Ear-Headphones/dp/B00JTBHCZM?ie=UTF8&m=A2THIGJ83VMAAL&qid=1459574341&ref_=sr_1_87&s=merchant-items&sr=1-87">Red</a>, 
+                and <a href="http://www.amazon.com/AudioTechnica-ATH-AX3IS-SonicFuel-Over-Ear-Headphones/dp/B00IF6WSLK?ie=UTF8&m=A2THIGJ83VMAAL&qid=1459574341&ref_=sr_1_85&s=merchant-items&sr=1-85">Navy</a>.
+            </p>
+          
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">No Thanks.</button>
+          <button type="button" class="btn btn-cap" data-dismiss="modal" id="viewSale">View Sale!</button>
+        </div>
+      </div>
+    </div>
+</div>
+
+<script>
+    if (window.sessionStorage.getItem('capHasShownHolidaySaleModal') === null) {
+      // Show modal
+      $('#holidaySaleModal').modal('show');
+      // Set SessionStorage
+      window.sessionStorage.setItem('capHasShownHolidaySaleModal', 'true');
+    }
+    
+    $('#viewSale').on('click', function(event) {
+        event.preventDefault();
+        window.location.assign('http://www.amazon.com/AudioTechnica-ATH-AX3IS-SonicFuel-Over-Ear-Headphones/dp/B00JTBHCR0?ie=UTF8&m=A2THIGJ83VMAAL&qid=1459574341&ref_=sr_1_73&s=merchant-items&sr=1-73');
+    });
+</script>

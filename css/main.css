@@ -230,7 +230,26 @@ footer {
     width: 100%;
     height: 100%;
   }
-
+  
+  
+  /* MODAL */
+.modal-header {
+	text-align: center;
+}
+	#myModalLabel {
+		font-weight: bold;
+	}
+#modal-item-title {
+	font-weight: bold;
+	text-align: center;
+}
+.modal-image-div {
+	max-width: 330px;
+	margin: 0 auto;
+}
+	.modal-image {
+		width: 100%;
+	}
 
 
 	/* --------------------------------- MOBILE -------------------------------*/

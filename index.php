@@ -71,9 +71,10 @@
       </div>
     </div>
     
-    
-    
   </div><!-- End .container -->
   <?php include_once("templates/footer.html"); ?>
+
+  <?php include_once("templates/holiday-sale-modal.html"); ?>
+  
 </body>
 </html>
