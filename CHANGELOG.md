@@ -1,5 +1,13 @@
 # CAP Distributing Change Log
 
+
+## v2.1.1
+### Bug Fixes
+ * Fixed Analytics bug
+ * Fixed Error in Holiday Sale modal
+ * Updated copyright
+
+
 ## v2.1.0
 ### Features
  * Holiday Modal
