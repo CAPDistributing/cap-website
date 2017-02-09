@@ -1,6 +1,11 @@
 # CAP Distributing Change Log
 
 
+## v2.1.2
+### Bug Fixes
+ * Fixed meta tags
+
+
 ## v2.1.1
 ### Bug Fixes
  * Fixed Analytics bug
