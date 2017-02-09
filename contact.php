@@ -3,6 +3,8 @@
 <head>
   
 	<title>Contact Us - CAP Distributing</title>
+	<meta name="description" content="We would love to hear what you think. Please contact us and give us feedback on our products or service." />
+	<meta name="keywords" content="cap distributing, contact, message" />
     <?php include_once("templates/head.html"); ?>
 
 </head>

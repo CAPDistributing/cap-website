@@ -3,6 +3,8 @@
 <head>
   
 	<title>News - CAP Distributing</title>
+	<meta name="description" content="We are constantly looking for more ways to quality items. Come and see what we are up to." />
+	<meta name="keywords" content="cap distributing news, update, info, events" />
   <?php include_once("templates/head.html"); ?>
   
 </head>

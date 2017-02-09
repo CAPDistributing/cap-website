@@ -3,6 +3,8 @@
 <head>
   
 	<title>Concert Shirts - CAP Distributing</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
   <?php include_once("../templates/head.html"); ?>
   
 </head>

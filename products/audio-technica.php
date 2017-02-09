@@ -3,6 +3,8 @@
 <head>
   
 	<title>Audio Technica - CAP Distributing</title>
+	<meta name="description" content="Audio Technica Headphones are high quality headphones at an amazing price." />
+	<meta name="keywords" content="audio technica, headphones, over-the-ear headphones, ax1is" />
   <?php include_once("../templates/head.html"); ?>
   
 </head>

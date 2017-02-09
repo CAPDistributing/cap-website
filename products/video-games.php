@@ -3,6 +3,8 @@
 <head>
   
 	<title>Video Games - CAP Distributing</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="video game, xbox, playstation," />
   <?php include_once("../templates/head.html"); ?>
   
 </head>

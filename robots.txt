@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /.git/
+Disallow: /deploy/
+Disallow: /CHANGELOG.md
+Disallow: /README.md

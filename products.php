@@ -3,6 +3,8 @@
 <head>
   
 	<title>Products - CAP Distributing</title>
+	<meta name="description" content="We have many products availiable like wallets, headphones, mobile accessories and so much more. Come and check us out today." />
+	<meta name="keywords" content="audio technica, river ridge, audiobooks, ebk, headphones, wallets, mobile accessories" />
   <?php include_once("templates/head.html"); ?>
   
 </head>

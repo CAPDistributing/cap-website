@@ -3,6 +3,8 @@
 <head>
 	
 	<title>Home - CAP Distributing</title>
+	<meta name="description" content="CAP Distributing is dedicated to providing the best products availiable at the lowest prices." />
+	<meta name="keywords" content="distribution, headphones, wallets, shirts, electronics, mobile accessories" />
   <?php include_once("templates/head.html"); ?>
 	
 </head>

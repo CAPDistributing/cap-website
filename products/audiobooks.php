@@ -3,6 +3,8 @@
 <head>
   
 	<title>Audiobooks - CAP Distributing</title>
+	<meta name="description" content="CAP Distributing has great audiobooks. Come and see our great selection." />
+	<meta name="keywords" content="audiobooks, john le carre, clive cussler" />
   <?php include_once("../templates/head.html"); ?>
   
 </head>

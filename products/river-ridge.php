@@ -3,6 +3,8 @@
 <head>
   
 	<title>River Ridge - CAP Distributing</title>
+	<meta name="description" content="River Ridge Wallets are high quality lambskin leather wallets. They are great for gifts." />
+	<meta name="keywords" content="river ridge, wallet, lambskin wallet, mens wallet, genuine leather wallet, bifold wallet, trifold wallet" />
   <?php include_once("../templates/head.html"); ?>
   
 </head>

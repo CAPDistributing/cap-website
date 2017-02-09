@@ -3,6 +3,8 @@
 <head>
   
     <title>EBK - CAP Distributing</title>
+    <meta name="description" content="EBK has all the mobile accessories you'll need to keep you going while traveling." />
+	  <meta name="keywords" content="tablet stand, mobile accessories, ebk, iPad stand, portable" />
     <?php include_once("../templates/head.html"); ?>
   
 </head>

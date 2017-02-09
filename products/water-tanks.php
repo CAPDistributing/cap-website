@@ -3,6 +3,8 @@
 <head>
   
 	<title>Water Tanks - CAP Distributing</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="water tank, storage, earthquake, natural disaster" />
   <?php include_once("../templates/head.html"); ?>
   
 </head>
