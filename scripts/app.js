@@ -511,6 +511,30 @@
 
   var news = [
     {
+      title: "Check out our Product Reviews",
+      date: "February 8, 2017",
+      image: {
+        src: "/images/news/tutorial-geek-logo.png",
+        alt: ""
+      },
+      newsLink: "http://www.tutorialgeek.net/2017/02/over-ear-audiotechnica-ath-ax3is.html",
+      article: [
+        'Check out who is loving our products! McKay wrote a blog post about our Audio Technica Headphones.'
+      ]
+    },
+    {
+      title: "We Support MathPlacementReview.com",
+      date: "November 24, 2016",
+      image: {
+        src: "/images/news/favicon.ico",
+        alt: ""
+      },
+      newsLink: "https://www.mathplacementreview.com",
+      article: [
+        "We, at CAP Distributing, believe that education is extremely important. Education can open many doors for all of us. That is one reason why we support MathPlacementReview. At MathPlacementReview, they strive to share free information with others, in hopes to be able to helps others learn and have a better life."
+      ]
+    },
+    {
       title: "Audio Technica ATH-AX3iS SonicFuel Over-Ear Headphones",
       date: "March 23, 2016",
       image: {
