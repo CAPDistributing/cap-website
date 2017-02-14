@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="store">
+<html ng-app="store" lang="en">
 <head>
   
 	<title>River Ridge - CAP Distributing</title>
