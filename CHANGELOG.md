@@ -1,6 +1,12 @@
 # CAP Distributing Change Log
 
 
+## v2.1.3
+### Bug Fixes
+ * Added more CAP news
+ * Fixed meta data
+
+
 ## v2.1.2
 ### Bug Fixes
  * Fixed meta tags
