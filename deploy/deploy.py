@@ -4,13 +4,14 @@
 import os
 
 # Setup
-repository = '/home2/capdist1/public_html/cap-website'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 branch = 'master'
 
 # Pull Changes
 def pull_git():
-    os.system('cd ' + repository + ' && git reset --hard HEAD')
-    os.system('cd ' + repository + ' && git pull origin ' + branch)
+    os.system('cd ' + BASE_DIR + ' && git checkout ' + branch)
+    os.system('cd ' + BASE_DIR + ' && git reset --hard HEAD')
+    os.system('cd ' + BASE_DIR + ' && git pull origin ' + branch)
 
 # Init
 if __name__ == '__main__':
