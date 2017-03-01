@@ -3,3 +3,4 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} ^capdistributing.com$
 RewriteRule ^/?$ "https\:\/\/www\.capdistributing\.com\/" [R=301,L]
 
+RedirectMatch 404 /\.git

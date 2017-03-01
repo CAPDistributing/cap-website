@@ -23,7 +23,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/anc70.jpg",
+  		    src: "/images/audio-technica/anc70.min.jpg",
   		    alt: "Black Headphones"
   	  },
       bullets: [
@@ -41,7 +41,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX3iSBK.jpg",
+  		    src: "/images/audio-technica/AX3iSBK.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -60,7 +60,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX3iSRD.jpg",
+  		    src: "/images/audio-technica/AX3iSRD.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -79,7 +79,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX3iSBL.jpg",
+  		    src: "/images/audio-technica/AX3iSBL.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -98,7 +98,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/COR150PK.jpg",
+  		    src: "/images/audio-technica/COR150PK.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -117,7 +117,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/CLR100LG.jpg",
+  		    src: "/images/audio-technica/CLR100LG.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -136,7 +136,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/CLR100OR.jpg",
+  		    src: "/images/audio-technica/CLR100OR.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -155,7 +155,7 @@
   	  upc: "4961310126285",
       price: "27.99",
   	  image: {
-  		    src: "/images/audio-technica/AX1iSBK2.jpg",
+  		    src: "/images/audio-technica/AX1iSBK2.min.jpg",
   		    alt: "Black Headphones"
   	  },
       bullets: [
@@ -174,7 +174,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX1iSWH2.jpg",
+  		    src: "/images/audio-technica/AX1iSWH2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -193,7 +193,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX1iSGY2.jpg",
+  		    src: "/images/audio-technica/AX1iSGY2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -212,7 +212,7 @@
   	  upc: "4961310126315",
       price: "27.99",
   	  image: {
-  		    src: "/images/audio-technica/AX1iSRD2.jpg",
+  		    src: "/images/audio-technica/AX1iSRD2.min.jpg",
   		    alt: "Red Headphones"
   	  },
       bullets: [
@@ -231,7 +231,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX1iSBL2.jpg",
+  		    src: "/images/audio-technica/AX1iSBL2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -254,7 +254,7 @@
   	  ean: "",
       price: "",
   	  image: {
-  		    src: "/images/river-ridge/02080B.jpg",
+  		    src: "/images/river-ridge/02080B.min.jpg",
   		    alt: "Trifold Wallet"
   	  },
       bullets: [
@@ -272,7 +272,7 @@
   	  ean: "",
       price: "",
   	  image: {
-  		    src: "/images/river-ridge/02079B.jpg",
+  		    src: "/images/river-ridge/02079B.min.jpg",
   		    alt: "Bifold Wallet"
   	  },
       bullets: [
@@ -290,7 +290,7 @@
   	  ean: "",
       price: "",
   	  image: {
-  		    src: "/images/river-ridge/02084B.jpg",
+  		    src: "/images/river-ridge/02084B.min.jpg",
   		    alt: "Bifold Wallet"
   	  },
       bullets: [
@@ -308,7 +308,7 @@
   	  ean: "",
       price: "",
   	  image: {
-  		    src: "/images/river-ridge/RR02082.jpg",
+  		    src: "/images/river-ridge/RR02082.min.jpg",
   		    alt: "Trifold Wallet"
   	  },
       bullets: [
@@ -326,7 +326,7 @@
   	  ean: "",
       price: "",
   	  image: {
-  		    src: "/images/river-ridge/02081E.jpg",
+  		    src: "/images/river-ridge/02081E.min.jpg",
   		    alt: "Bifold Wallet"
   	  },
       bullets: [
@@ -348,7 +348,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/ebk/47180.JPG",
+  		    src: "/images/ebk/47180.min.JPG",
   		    alt: ""
   	  },
       bullets: [
@@ -371,7 +371,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/edp/250-gallon-blue5.jpg",
+  		    src: "/images/edp/250-gallon-blue5.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -389,7 +389,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/edp/250-gallon-granite.jpg",
+  		    src: "/images/edp/250-gallon-granite.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -411,7 +411,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audiobooks/the-race.jpg",
+  		    src: "/images/audiobooks/the-race.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -428,7 +428,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audiobooks/the-little-drummer-girl.jpg",
+  		    src: "/images/audiobooks/the-little-drummer-girl.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -445,7 +445,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audiobooks/smileys-people.jpg",
+  		    src: "/images/audiobooks/smileys-people.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -462,7 +462,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audiobooks/the-honourable-schoolboy.jpg",
+  		    src: "/images/audiobooks/the-honourable-schoolboy.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -479,7 +479,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audiobooks/the-spy-who-came-in-from-the-cold.jpg",
+  		    src: "/images/audiobooks/the-spy-who-came-in-from-the-cold.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -496,7 +496,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audiobooks/a-perfect-spy.jpg",
+  		    src: "/images/audiobooks/a-perfect-spy.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -514,7 +514,7 @@
       title: "Check out our Product Reviews",
       date: "February 8, 2017",
       image: {
-        src: "/images/news/tutorial-geek-logo.png",
+        src: "/images/news/tutorial-geek-logo.min.png",
         alt: ""
       },
       newsLink: "http://www.tutorialgeek.net/2017/02/over-ear-audiotechnica-ath-ax3is.html",
@@ -538,7 +538,7 @@
       title: "Audio Technica ATH-AX3iS SonicFuel Over-Ear Headphones",
       date: "March 23, 2016",
       image: {
-        src: "/images/audio-technica/AX3iSBL.jpg",
+        src: "/images/audio-technica/AX3iSBL.min.jpg",
         alt: ""
       },
       newsLink: "/products/audio-technica.php",
@@ -551,7 +551,7 @@
       title: "Storm Tanker Water Tanks",
       date: "February 6, 2016",
       image: {
-        src: "/images/edp/250-gallon-granite.jpg",
+        src: "/images/edp/250-gallon-granite.min.jpg",
         alt: ""
       },
       newsLink: "/products/water-tanks.php",
@@ -564,7 +564,7 @@
       title: "Concert T-shirts",
       date: "November 11, 2015",
       image: {
-        src: "/images/fea/Picture14.png",
+        src: "/images/fea/Picture14.min.png",
         alt: ""
       },
       newsLink: "/products/concert-shirts.php",
@@ -576,7 +576,7 @@
       title: "Announcing the launch of our River Ridge Wallets",
       date: "August 6, 2015",
       image: {
-        src: "/images/river-ridge/02080F.jpg",
+        src: "/images/river-ridge/02080F.min.jpg",
         alt: ""
       },
       newsLink: "/products/river-ridge.php",
@@ -588,7 +588,7 @@
       title: "AudioTechnica ATH-AX1iS SonicFuel Over-Ear Headphones",
       date: "June 17, 2015",
       image: {
-        src: "/images/audio-technica/AX1iSRD2.jpg",
+        src: "/images/audio-technica/AX1iSRD2.min.jpg",
         alt: ""
       },
       newsLink: "/products/audio-technica.php",
@@ -600,7 +600,7 @@
       title: "Announcing the launch of our EBK Portable Tablet Stand",
       date: "March 20, 2015",
       image: {
-        src: "/images/ebk/47180.JPG",
+        src: "/images/ebk/47180.min.JPG",
         alt: ""
       },
       newsLink: "/products/ebk.php",
@@ -612,7 +612,7 @@
       title: "Audiobooks",
       date: "March 3, 2015",
       image: {
-        src: "/images/audiobooks/a-perfect-spy.jpg",
+        src: "/images/audiobooks/a-perfect-spy.min.jpg",
         alt: ""
       },
       newsLink: "/products/audiobooks.php",
@@ -624,7 +624,7 @@
       title: "Video Games",
       date: "February 12, 2015",
       image: {
-        src: "/images/video-games/el-tigre.jpg",
+        src: "/images/video-games/el-tigre.min.jpg",
         alt: ""
       },
       newsLink: "/products/video-games.php",
@@ -636,7 +636,7 @@
       title: "CAP Distributing",
       date: "",
       image: {
-        src: "/images/cap/cap-news.png",
+        src: "/images/cap/cap-news.min.png",
         alt: ""
       },
       newsLink: "http://www.amazon.com/shops/A2THIGJ83VMAAL",
@@ -655,7 +655,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/audio-technica/AX3iSBK.jpg",
+  		    src: "/images/audio-technica/AX3iSBK.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -674,7 +674,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/edp/250-gallon-blue5.jpg",
+  		    src: "/images/edp/250-gallon-blue5.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -692,7 +692,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/ebk/47180.JPG",
+  		    src: "/images/ebk/47180.min.JPG",
   		    alt: ""
   	  },
       bullets: [
@@ -715,7 +715,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/duel-masters2.jpg",
+  		    src: "/images/video-games/duel-masters2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -733,7 +733,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/uefa-euro-2008.jpg",
+  		    src: "/images/video-games/uefa-euro-2008.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -751,7 +751,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/broken-sword.jpg",
+  		    src: "/images/video-games/broken-sword.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -769,7 +769,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/rise-of-kasai.jpg",
+  		    src: "/images/video-games/rise-of-kasai.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -787,7 +787,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/hunter.jpg",
+  		    src: "/images/video-games/hunter.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -805,7 +805,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/go-pets2.jpg",
+  		    src: "/images/video-games/go-pets2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -823,7 +823,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/el-tigre2.jpg",
+  		    src: "/images/video-games/el-tigre2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -841,7 +841,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/street-hoops2.jpg",
+  		    src: "/images/video-games/street-hoops2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -859,7 +859,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/velvet-assassin2.jpg",
+  		    src: "/images/video-games/velvet-assassin2.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -877,7 +877,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/mlb-20052.jpg",
+  		    src: "/images/video-games/mlb-20052.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -896,7 +896,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/video-games/tony-hawk-4.jpg",
+  		    src: "/images/video-games/tony-hawk-4.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -918,7 +918,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture18.jpg",
+  		    src: "/images/fea/Picture18.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -935,7 +935,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture24.png",
+  		    src: "/images/fea/Picture24.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -952,7 +952,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture15.png",
+  		    src: "/images/fea/Picture15.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -969,7 +969,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture3.png",
+  		    src: "/images/fea/Picture3.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -986,7 +986,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture25.png",
+  		    src: "/images/fea/Picture25.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -1003,7 +1003,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture13.jpg",
+  		    src: "/images/fea/Picture13.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -1020,7 +1020,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture14.png",
+  		    src: "/images/fea/Picture14.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -1037,7 +1037,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture11.png",
+  		    src: "/images/fea/Picture11.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -1054,7 +1054,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture22.jpg",
+  		    src: "/images/fea/Picture22.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -1071,7 +1071,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture2.png",
+  		    src: "/images/fea/Picture2.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -1088,7 +1088,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture26.png",
+  		    src: "/images/fea/Picture26.min.png",
   		    alt: ""
   	  },
       bullets: [
@@ -1105,7 +1105,7 @@
   	  upc: "",
       price: "",
   	  image: {
-  		    src: "/images/fea/Picture8.jpg",
+  		    src: "/images/fea/Picture8.min.jpg",
   		    alt: ""
   	  },
       bullets: [
@@ -1123,7 +1123,7 @@
       brand: "River Ridge Wallets",
       category: "",
       image: {
-        src: "/images/river-ridge/02080F.jpg",
+        src: "/images/river-ridge/02080F.min.jpg",
         alt: ""
       },
       capLink: "/products/river-ridge.php",
@@ -1133,7 +1133,7 @@
       brand: "Concert T-Shirts",
       category: "",
       image: {
-        src: "/images/fea/Picture15.png",
+        src: "/images/fea/Picture15.min.png",
         alt: ""
       },
       capLink: "/products/concert-shirts.php",
@@ -1143,7 +1143,7 @@
       brand: "Audio Technica Headphones",
       category: "",
       image: {
-        src: "/images/audio-technica/AX1iS.jpg",
+        src: "/images/audio-technica/AX1iS.min.jpg",
         alt: ""
       },
       capLink: "/products/audio-technica.php",
@@ -1153,7 +1153,7 @@
       brand: "EBK Electronics",
       category: "",
       image: {
-        src: "/images/ebk/47180.JPG",
+        src: "/images/ebk/47180.min.JPG",
         alt: ""
       },
       capLink: "/products/ebk.php",
@@ -1163,7 +1163,7 @@
       brand: "Audiobooks",
       category: "",
       image: {
-        src: "/images/audiobooks/the-little-drummer-girl.jpg",
+        src: "/images/audiobooks/the-little-drummer-girl.min.jpg",
         alt: ""
       },
       capLink: "/products/audiobooks.php",
@@ -1173,7 +1173,7 @@
       brand: "Video Games",
       category: "",
       image: {
-        src: "/images/video-games/el-tigre.jpg",
+        src: "/images/video-games/el-tigre.min.jpg",
         alt: ""
       },
       capLink: "/products/video-games.php",
@@ -1183,7 +1183,7 @@
       brand: "Storm Tanker Water Tanks",
       category: "",
       image: {
-        src: "/images/edp/250-gallon-blue5.jpg",
+        src: "/images/edp/250-gallon-blue5.min.jpg",
         alt: ""
       },
       capLink: "/products/water-tanks.php",
