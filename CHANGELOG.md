@@ -1,6 +1,11 @@
 # CAP Distributing Change Log
 
 
+## v2.1.4
+### Bug Fixes
+ * Minor Bug Fixes
+
+
 ## v2.1.3
 ### Bug Fixes
  * Added more CAP news
