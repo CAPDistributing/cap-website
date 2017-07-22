@@ -511,6 +511,18 @@
 
   var news = [
     {
+      title: "We started working on VisitMyAncestors.com",
+      date: "June 4, 2017",
+      image: {
+        src: "/images/news/vma-logo-favicon.png",
+        alt: ""
+      },
+      newsLink: "https://www.visitmyancestors.com",
+      article: [
+        "We have started working on our new website, Visit My Ancestors. We think it's important to learn about your ancestors, so we are building a website that allows you to see where your ancestors are buried. You will login via FamilySearch and we will use that data to populate a map of where they are buried. Come and check it out today."
+      ]
+    },
+    {
       title: "Check out our Product Reviews",
       date: "February 8, 2017",
       image: {

@@ -72,7 +72,22 @@
           <p ng-repeat="paragraphs in store.news[1].article">{{paragraphs}}</p>
       </div>
     </div>
-    
+
+    <div class="row news-div">
+      <a href ng-href="{{store.news[2].newsLink}}">
+        <h3>{{store.news[2].title}}</h3>
+      </a>  
+      <div class="col-md-3">
+          <a href ng-href="{{store.news[2].newsLink}}">
+            <img class="news-img" ng-src="{{store.news[2].image.src}}" />
+          </a>
+      </div>
+      <div class="col-md-9">
+          <h4>{{store.news[2].date}}</h4>
+          <p ng-repeat="paragraphs in store.news[2].article">{{paragraphs}}</p>
+      </div>
+    </div>
+  
   </div><!-- End .container -->
   <?php include_once("templates/footer.html"); ?>
 
