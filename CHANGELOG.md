@@ -1,6 +1,11 @@
 # CAP Distributing Change Log
 
 
+## v2.1.5
+### Bug Fixes
+ * Added VMA to news page
+
+
 ## v2.1.4
 ### Bug Fixes
  * Minor Bug Fixes
