@@ -24,7 +24,8 @@
           <li class="product-bullets-li">{{product.bullets[0]}}</li>
           <li class="product-bullets-li">{{product.bullets[1]}}</li>
         </ul>
-        <a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>
+        <?php #<a class="btn btn-cap" ng-href="{{product.amazonLink}}">Buy on Amazon &gt;&gt;</a>; ?>
+        <a class="btn btn-cap" href="/contact.php">Contact Us</a>
       </div>
     </div>
 
