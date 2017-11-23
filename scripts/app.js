@@ -519,7 +519,9 @@
       },
       newsLink: "https://www.visitmyancestors.com",
       article: [
-        "We have started working on our new website, Visit My Ancestors. We think it's important to learn about your ancestors, so we are building a website that allows you to see where your ancestors are buried. You will login via FamilySearch and we will use that data to populate a map of where they are buried. Come and check it out today."
+        "We have started working on our new website, Visit My Ancestors. We think it's important to learn about your ancestors, so we are building a website that allows you to see where your ancestors are buried. You will login via FamilySearch and we will use that data to populate a map of where they are buried. Come and check it out today.",
+        '*** UPDATED ON SEPTEMBER 4, 2017 ***',
+        'Today we have published VisitMyAncestors.com. We have released our map view for everyone to use. This allows you to login via your FamilySearch login. When opening the Map, Visit My Ancestors will search the FamilySearch database and indicate the burial location of ancestors and mark them with a "pin". You can click on the pin to reveal name, birth/death year, burial location and link to FamilySearch. You may also use "Set as Primary" for a new search based on that person.'
       ]
     },
     {
