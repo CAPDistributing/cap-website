@@ -514,7 +514,7 @@
       title: "We started working on VisitMyAncestors.com",
       date: "June 4, 2017",
       image: {
-        src: "/images/news/vma-logo-favicon.png",
+        src: "/images/news/vma-loader.png",
         alt: ""
       },
       newsLink: "https://www.visitmyancestors.com",
