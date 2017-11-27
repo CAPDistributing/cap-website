@@ -1,6 +1,11 @@
 # CAP Distributing Change Log
 
 
+## v2.1.8
+### Enhancements
+ * Add the new Visit My Ancestors logo
+
+
 ## v2.1.7
 ### Enhancements
  * Moved our Terms of Use and Security Policy over to our website
