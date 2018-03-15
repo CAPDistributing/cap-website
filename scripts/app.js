@@ -505,11 +505,59 @@
       amazonLink: "http://www.amazon.com/Perfect-Spy-Novel-John-Carre/dp/1611760909/ref=sr_1_103?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1451089634&sr=1-103",
       soldOut: false,
       onSale: false
-    },
-
+    }
   ]; // end audiobooks
 
   var news = [
+    {
+      title: "Pink AudioTechnica Core150 In-Ear Headphones Sale",
+      date: "March 3, 2018",
+      image: {
+        src: "/images/audio-technica/COR150PK.min.jpg",
+        alt: ""
+      },
+      newsLink: "http://www.amazon.com/Audio-Technica-ATHCOR150PK--Ear-Headphones/dp/B00BIDHA6U/ref=sr_1_1?m=A2THIGJ83VMAAL&s=merchant-items&ie=UTF8&qid=1462024387&sr=1-1&keywords=pink",
+      article: [
+        "We are putting our Pink AudioTechnica Core 150 In-Ear Headphones on sale while supplies last. Come and get them quick."
+      ]
+    },
+    {
+      title: "Closing Down Visit My Ancestors",
+      date: "November 10, 2017",
+      image: {
+        src: "/images/news/vma-loader.png",
+        alt: ""
+      },
+      newsLink: "https://www.familysearch.org/blog/en/whats-map-ancestors/",
+      article: [
+        "We would like to announce the launch of 'Map My Ancestors' by FamilySearch. Recently, FamilySearch added a new feature to their mobile app that basically does what 'Visit My Ancestors' was built for. You are able to login via your FamilySearch and see your ancestor's 'events' such as birth, death, etc. We know that FamilySearch will do a better job than us at building this feature, so we decided to deprecate this website. We are excited that FamilySearch sees the value of adding this feature, and we hope they continue to work on it, so we can easily find and visit our ancestors. Our goal was to have a place where we could easily see where our ancestors were buried. You can read more about our goals here. FamilySearch has now built that for everyone.",
+        "We have really enjoyed being about to work on this website. It has allowed us to grow closer to our ancestors as we have tried to find them and their stories. We will take these experiences and continue to find ways we can improve the world."
+      ]
+    },
+    {
+      title: "Preparing for our End Of Year sale",
+      date: "October 21, 2017",
+      image: {
+        src: "/images/cap/cap-news.min.png",
+        alt: ""
+      },
+      newsLink: "http://www.amazon.com/shops/A2THIGJ83VMAAL",
+      article: [
+        'We are getting ready for our End Of Year sale. Keep an eye on our Amazon Storefront and subscibe to our mailing list for updates.'
+      ]
+    },
+    {
+      title: "Official Release of Visit My Ancestors",
+      date: "September 4, 2017",
+      image: {
+        src: "/images/news/vma-loader.png",
+        alt: ""
+      },
+      newsLink: "https://www.visitmyancestors.com",
+      article: [
+        'Today we have published VisitMyAncestors.com. We have released our map view for everyone to use. This allows you to login via your FamilySearch login. When opening the Map, Visit My Ancestors will search the FamilySearch database and indicate the burial location of ancestors and mark them with a "pin". You can click on the pin to reveal name, birth/death year, burial location and link to FamilySearch. You may also use "Set as Primary" for a new search based on that person.'
+      ]
+    },
     {
       title: "We started working on VisitMyAncestors.com",
       date: "June 4, 2017",
@@ -519,9 +567,7 @@
       },
       newsLink: "https://www.visitmyancestors.com",
       article: [
-        "We have started working on our new website, Visit My Ancestors. We think it's important to learn about your ancestors, so we are building a website that allows you to see where your ancestors are buried. You will login via FamilySearch and we will use that data to populate a map of where they are buried. Come and check it out today.",
-        '*** UPDATED ON SEPTEMBER 4, 2017 ***',
-        'Today we have published VisitMyAncestors.com. We have released our map view for everyone to use. This allows you to login via your FamilySearch login. When opening the Map, Visit My Ancestors will search the FamilySearch database and indicate the burial location of ancestors and mark them with a "pin". You can click on the pin to reveal name, birth/death year, burial location and link to FamilySearch. You may also use "Set as Primary" for a new search based on that person.'
+        "We have started working on our new website, Visit My Ancestors. We think it's important to learn about your ancestors, so we are building a website that allows you to see where your ancestors are buried. You will login via FamilySearch and we will use that data to populate a map of where they are buried. Come and check it out today."
       ]
     },
     {
@@ -540,7 +586,7 @@
       title: "We Support MathPlacementReview.com",
       date: "November 24, 2016",
       image: {
-        src: "/images/news/favicon.ico",
+        src: "/images/news/mpr-logo-v2.png",
         alt: ""
       },
       newsLink: "https://www.mathplacementreview.com",

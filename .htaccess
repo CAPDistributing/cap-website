@@ -3,4 +3,25 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} ^capdistributing.com$
 RewriteRule ^/?$ "https\:\/\/www\.capdistributing\.com\/" [R=301,L]
 
+
+<IfModule mod_headers.c>
+Header set Content-Security-Policy "default-src * 'unsafe-inline';"
+Header set Content-Security-Policy "script-src 'self' 'unsafe-inline' *.bootstrapcdn.com *.googlesyndication.com *.google-analytics.com  *.cloudflare.com;"
+Header set Content-Security-Policy "style-src 'self' 'unsafe-inline' *.bootstrapcdn.com *.cloudflare.com;"
+Header set Content-Security-Policy "img-src 'self' 'unsafe-inline' *.cloudflare.com;"
+
+Header set X-Content-Security-Policy "default-src * 'unsafe-inline';"
+Header set X-Content-Security-Policy "script-src 'self' 'unsafe-inline' *.bootstrapcdn.com *.googlesyndication.com *.google-analytics.com *.cloudflare.com;"
+Header set X-Content-Security-Policy "style-src 'self' 'unsafe-inline' *.bootstrapcdn.com *.cloudflare.com;"
+Header set X-Content-Security-Policy "img-src 'self' 'unsafe-inline' *.cloudflare.com;"
+
+Header set Strict-Transport-Security "max-age=15768000; includeSubDomains; preload"
+Header set X-Content-Type-Options "nosniff"
+Header set X-XSS-Protection "1; mode=block"
+Header set X-Frame-Options "DENY"
+Header set Access-Control-Allow-Origin *;
+Header set Referrer-Policy no-referrer-when-downgrade
+</IfModule>
+
+
 RedirectMatch 404 /\.git
